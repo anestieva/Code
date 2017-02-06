@@ -1,1 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\10HalfSumElement\bin\Debug\10HalfSumElement.exe.config

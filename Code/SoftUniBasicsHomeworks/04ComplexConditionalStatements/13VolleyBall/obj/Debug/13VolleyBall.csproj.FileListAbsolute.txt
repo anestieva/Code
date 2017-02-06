@@ -1,5 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\13VolleyBall\bin\Debug\13VolleyBall.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\13VolleyBall\bin\Debug\13VolleyBall.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\13VolleyBall\bin\Debug\13VolleyBall.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\13VolleyBall\obj\Debug\13VolleyBall.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\13VolleyBall\obj\Debug\13VolleyBall.pdb

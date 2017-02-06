@@ -1,5 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\08SumSeconds\bin\Debug\08SumSeconds.exe.config
-E:\Code\SoftUni\03SimpleConditions\08SumSeconds\bin\Debug\08SumSeconds.exe
-E:\Code\SoftUni\03SimpleConditions\08SumSeconds\bin\Debug\08SumSeconds.pdb
-E:\Code\SoftUni\03SimpleConditions\08SumSeconds\obj\Debug\08SumSeconds.exe
-E:\Code\SoftUni\03SimpleConditions\08SumSeconds\obj\Debug\08SumSeconds.pdb

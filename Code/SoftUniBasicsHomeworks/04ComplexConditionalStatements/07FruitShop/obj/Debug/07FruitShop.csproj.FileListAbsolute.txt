@@ -1,5 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\07FruitShop\bin\Debug\07FruitShop.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\07FruitShop\bin\Debug\07FruitShop.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\07FruitShop\bin\Debug\07FruitShop.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\07FruitShop\obj\Debug\07FruitShop.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\07FruitShop\obj\Debug\07FruitShop.pdb

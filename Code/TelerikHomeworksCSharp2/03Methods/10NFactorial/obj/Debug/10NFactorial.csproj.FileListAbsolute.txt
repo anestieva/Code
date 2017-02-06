@@ -1,1 +1,0 @@
-E:\Code\TelerikHomeworksC#2\03Methods\10NFactorial\bin\Debug\10NFactorial.exe.config

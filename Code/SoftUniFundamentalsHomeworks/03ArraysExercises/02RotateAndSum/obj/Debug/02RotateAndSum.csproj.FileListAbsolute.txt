@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\02RotateAndSum\bin\Debug\02RotateAndSum.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\02RotateAndSum\bin\Debug\02RotateAndSum.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\02RotateAndSum\bin\Debug\02RotateAndSum.pdb
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\02RotateAndSum\obj\Debug\02RotateAndSum.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\02RotateAndSum\obj\Debug\02RotateAndSum.pdb

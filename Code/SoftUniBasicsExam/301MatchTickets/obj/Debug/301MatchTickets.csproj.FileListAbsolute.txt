@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\301MatchTickets\bin\Debug\301MatchTickets.exe.config
-E:\Code\SoftUniBasicsExam\301MatchTickets\bin\Debug\301MatchTickets.exe
-E:\Code\SoftUniBasicsExam\301MatchTickets\bin\Debug\301MatchTickets.pdb
-E:\Code\SoftUniBasicsExam\301MatchTickets\obj\Debug\301MatchTickets.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\301MatchTickets\obj\Debug\301MatchTickets.exe
-E:\Code\SoftUniBasicsExam\301MatchTickets\obj\Debug\301MatchTickets.pdb

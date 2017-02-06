@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\03SquareOfStars\bin\Debug\03SquareOfStars.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\03SquareOfStars\bin\Debug\03SquareOfStars.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\03SquareOfStars\bin\Debug\03SquareOfStars.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\03SquareOfStars\obj\Debug\03SquareOfStars.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\03SquareOfStars\obj\Debug\03SquareOfStars.pdb

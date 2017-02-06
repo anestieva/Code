@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\702Bricks\bin\Debug\702Bricks.exe.config
-E:\Code\SoftUniBasicsExam\702Bricks\bin\Debug\702Bricks.exe
-E:\Code\SoftUniBasicsExam\702Bricks\bin\Debug\702Bricks.pdb
-E:\Code\SoftUniBasicsExam\702Bricks\obj\Debug\702Bricks.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\702Bricks\obj\Debug\702Bricks.exe
-E:\Code\SoftUniBasicsExam\702Bricks\obj\Debug\702Bricks.pdb

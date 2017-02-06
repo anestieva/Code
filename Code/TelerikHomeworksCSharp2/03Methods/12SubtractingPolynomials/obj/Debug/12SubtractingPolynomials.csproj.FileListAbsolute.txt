@@ -1,1 +1,0 @@
-E:\Code\TelerikHomeworksC#2\03Methods\12SubtractingPolynomials\bin\Debug\12SubtractingPolynomials.exe.config

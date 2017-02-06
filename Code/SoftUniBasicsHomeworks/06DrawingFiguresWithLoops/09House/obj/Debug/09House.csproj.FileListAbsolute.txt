@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\09House\bin\Debug\09House.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\09House\bin\Debug\09House.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\09House\bin\Debug\09House.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\09House\obj\Debug\09House.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\09House\obj\Debug\09House.pdb

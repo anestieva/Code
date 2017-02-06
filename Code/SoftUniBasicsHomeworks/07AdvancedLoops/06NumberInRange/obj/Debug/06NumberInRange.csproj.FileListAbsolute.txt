@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\06NumberInRange\bin\Debug\06NumberInRange.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\06NumberInRange\bin\Debug\06NumberInRange.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\06NumberInRange\bin\Debug\06NumberInRange.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\06NumberInRange\obj\Debug\06NumberInRange.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\06NumberInRange\obj\Debug\06NumberInRange.pdb

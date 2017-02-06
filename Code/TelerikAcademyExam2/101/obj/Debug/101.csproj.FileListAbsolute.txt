@@ -1,6 +1,0 @@
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\101\bin\Debug\101.exe.config
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\101\bin\Debug\101.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\101\bin\Debug\101.pdb
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\101\obj\Debug\101.csprojResolveAssemblyReference.cache
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\101\obj\Debug\101.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\101\obj\Debug\101.pdb

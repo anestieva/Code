@@ -1,6 +1,0 @@
-E:\Code\SoftUni\02SimpleCalculations\06ConcatenateData\bin\Debug\06ConcatenateData.exe.config
-E:\Code\SoftUni\02SimpleCalculations\06ConcatenateData\bin\Debug\06ConcatenateData.exe
-E:\Code\SoftUni\02SimpleCalculations\06ConcatenateData\bin\Debug\06ConcatenateData.pdb
-E:\Code\SoftUni\02SimpleCalculations\06ConcatenateData\obj\Debug\06ConcatenateData.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\02SimpleCalculations\06ConcatenateData\obj\Debug\06ConcatenateData.exe
-E:\Code\SoftUni\02SimpleCalculations\06ConcatenateData\obj\Debug\06ConcatenateData.pdb

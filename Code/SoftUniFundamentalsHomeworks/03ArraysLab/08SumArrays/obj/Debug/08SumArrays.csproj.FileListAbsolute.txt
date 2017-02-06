@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\08SumArrays\bin\Debug\08SumArrays.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\08SumArrays\obj\Debug\08SumArrays.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\08SumArrays\bin\Debug\08SumArrays.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\08SumArrays\bin\Debug\08SumArrays.pdb
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\08SumArrays\obj\Debug\08SumArrays.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\08SumArrays\obj\Debug\08SumArrays.pdb

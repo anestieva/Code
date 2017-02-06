@@ -1,3 +1,0 @@
-E:\Code\SoftUni\05Loops\06SmalestNumber\bin\Debug\06SmalestNumber.exe.config
-E:\Code\SoftUni\05Loops\06SmalestNumber\obj\Debug\06SmalestNumber.exe
-E:\Code\SoftUni\05Loops\06SmalestNumber\obj\Debug\06SmalestNumber.pdb

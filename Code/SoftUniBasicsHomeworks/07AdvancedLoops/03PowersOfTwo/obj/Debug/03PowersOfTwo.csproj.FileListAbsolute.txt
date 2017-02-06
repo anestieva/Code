@@ -1,6 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\03PowersOfTwo\bin\Debug\03PowersOfTwo.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\03PowersOfTwo\bin\Debug\03PowersOfTwo.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\03PowersOfTwo\bin\Debug\03PowersOfTwo.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\03PowersOfTwo\obj\Debug\03PowersOfTwo.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\03PowersOfTwo\obj\Debug\03PowersOfTwo.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\03PowersOfTwo\obj\Debug\03PowersOfTwo.pdb

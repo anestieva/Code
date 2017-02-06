@@ -1,5 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\06PointOnRectangleBorder\bin\Debug\06PointOnRectangleBorder.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\06PointOnRectangleBorder\bin\Debug\06PointOnRectangleBorder.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\06PointOnRectangleBorder\bin\Debug\06PointOnRectangleBorder.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\06PointOnRectangleBorder\obj\Debug\06PointOnRectangleBorder.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\06PointOnRectangleBorder\obj\Debug\06PointOnRectangleBorder.pdb

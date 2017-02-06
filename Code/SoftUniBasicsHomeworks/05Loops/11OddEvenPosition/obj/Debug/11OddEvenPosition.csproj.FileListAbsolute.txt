@@ -1,6 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\11OddEvenPosition\bin\Debug\11OddEvenPosition.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\11OddEvenPosition\bin\Debug\11OddEvenPosition.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\11OddEvenPosition\bin\Debug\11OddEvenPosition.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\11OddEvenPosition\obj\Debug\11OddEvenPosition.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\11OddEvenPosition\obj\Debug\11OddEvenPosition.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\05Loops\11OddEvenPosition\obj\Debug\11OddEvenPosition.pdb

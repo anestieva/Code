@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\05TripleSum\bin\Debug\05TripleSum.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\05TripleSum\bin\Debug\05TripleSum.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\05TripleSum\bin\Debug\05TripleSum.pdb
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\05TripleSum\obj\Debug\05TripleSum.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\05TripleSum\obj\Debug\05TripleSum.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\05TripleSum\obj\Debug\05TripleSum.pdb

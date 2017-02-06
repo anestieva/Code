@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\03FoldAndSum\bin\Debug\03FoldAndSum.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\03FoldAndSum\bin\Debug\03FoldAndSum.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\03FoldAndSum\bin\Debug\03FoldAndSum.pdb
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\03FoldAndSum\obj\Debug\03FoldAndSum.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\03FoldAndSum\obj\Debug\03FoldAndSum.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\03FoldAndSum\obj\Debug\03FoldAndSum.pdb

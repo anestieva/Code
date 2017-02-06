@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsExam\202ArrayModifier\bin\Debug\202ArrayModifier.exe.config
-E:\Code\SoftUniFundamentalsExam\202ArrayModifier\bin\Debug\202ArrayModifier.exe
-E:\Code\SoftUniFundamentalsExam\202ArrayModifier\bin\Debug\202ArrayModifier.pdb
-E:\Code\SoftUniFundamentalsExam\202ArrayModifier\obj\Debug\202ArrayModifier.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsExam\202ArrayModifier\obj\Debug\202ArrayModifier.exe
-E:\Code\SoftUniFundamentalsExam\202ArrayModifier\obj\Debug\202ArrayModifier.pdb

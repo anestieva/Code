@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\14NumberTable\bin\Debug\14NumberTable.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\14NumberTable\bin\Debug\14NumberTable.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\14NumberTable\bin\Debug\14NumberTable.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\14NumberTable\obj\Debug\14NumberTable.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\14NumberTable\obj\Debug\14NumberTable.pdb

@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\08BuildAMatrixOfLetters\bin\Debug\08BuildAMatrixOfLetters.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\08BuildAMatrixOfLetters\bin\Debug\08BuildAMatrixOfLetters.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\08BuildAMatrixOfLetters\bin\Debug\08BuildAMatrixOfLetters.pdb
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\08BuildAMatrixOfLetters\obj\Debug\08BuildAMatrixOfLetters.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\08BuildAMatrixOfLetters\obj\Debug\08BuildAMatrixOfLetters.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\08BuildAMatrixOfLetters\obj\Debug\08BuildAMatrixOfLetters.pdb

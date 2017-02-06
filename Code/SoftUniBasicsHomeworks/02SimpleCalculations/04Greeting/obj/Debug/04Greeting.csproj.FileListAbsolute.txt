@@ -1,6 +1,0 @@
-E:\Code\SoftUni\02SimpleCalculations\04Greeting\bin\Debug\04Greeting.exe.config
-E:\Code\SoftUni\02SimpleCalculations\04Greeting\bin\Debug\04Greeting.exe
-E:\Code\SoftUni\02SimpleCalculations\04Greeting\bin\Debug\04Greeting.pdb
-E:\Code\SoftUni\02SimpleCalculations\04Greeting\obj\Debug\04Greeting.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\02SimpleCalculations\04Greeting\obj\Debug\04Greeting.exe
-E:\Code\SoftUni\02SimpleCalculations\04Greeting\obj\Debug\04Greeting.pdb

@@ -1,5 +1,0 @@
-E:\Code\TelerikHomeworksC#2\01Arrays\18RemoveElementsFromArray\bin\Debug\18RemoveElementsFromArray.exe.config
-E:\Code\TelerikHomeworksC#2\01Arrays\18RemoveElementsFromArray\bin\Debug\18RemoveElementsFromArray.exe
-E:\Code\TelerikHomeworksC#2\01Arrays\18RemoveElementsFromArray\bin\Debug\18RemoveElementsFromArray.pdb
-E:\Code\TelerikHomeworksC#2\01Arrays\18RemoveElementsFromArray\obj\Debug\18RemoveElementsFromArray.exe
-E:\Code\TelerikHomeworksC#2\01Arrays\18RemoveElementsFromArray\obj\Debug\18RemoveElementsFromArray.pdb

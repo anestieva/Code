@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\08EmployeeData\bin\Debug\08EmployeeData.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\08EmployeeData\bin\Debug\08EmployeeData.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\08EmployeeData\bin\Debug\08EmployeeData.pdb
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\08EmployeeData\obj\Debug\08EmployeeData.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\08EmployeeData\obj\Debug\08EmployeeData.pdb

@@ -1,1 +1,0 @@
-E:\Code\TelerikHomeworksC#2\01Arrays\07FrequentNumber\bin\Debug\07FrequentNumber.exe.config

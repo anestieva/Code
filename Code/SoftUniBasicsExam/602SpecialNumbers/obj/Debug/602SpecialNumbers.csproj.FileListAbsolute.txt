@@ -1,5 +1,0 @@
-E:\Code\SoftUniBasicsExam\602SpecialNumbers\bin\Debug\602SpecialNumbers.exe.config
-E:\Code\SoftUniBasicsExam\602SpecialNumbers\bin\Debug\602SpecialNumbers.exe
-E:\Code\SoftUniBasicsExam\602SpecialNumbers\bin\Debug\602SpecialNumbers.pdb
-E:\Code\SoftUniBasicsExam\602SpecialNumbers\obj\Debug\602SpecialNumbers.exe
-E:\Code\SoftUniBasicsExam\602SpecialNumbers\obj\Debug\602SpecialNumbers.pdb

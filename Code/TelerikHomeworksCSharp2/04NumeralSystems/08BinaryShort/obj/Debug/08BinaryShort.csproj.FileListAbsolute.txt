@@ -1,5 +1,0 @@
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\08BinaryShort\bin\Debug\08BinaryShort.exe.config
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\08BinaryShort\bin\Debug\08BinaryShort.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\08BinaryShort\bin\Debug\08BinaryShort.pdb
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\08BinaryShort\obj\Debug\08BinaryShort.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\08BinaryShort\obj\Debug\08BinaryShort.pdb

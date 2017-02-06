@@ -1,6 +1,0 @@
-D:\Code\SoftUniFundamentalsExtended2017\02MethodsExercises\04NthDigit\bin\Debug\04NthDigit.exe.config
-D:\Code\SoftUniFundamentalsExtended2017\02MethodsExercises\04NthDigit\bin\Debug\04NthDigit.exe
-D:\Code\SoftUniFundamentalsExtended2017\02MethodsExercises\04NthDigit\bin\Debug\04NthDigit.pdb
-D:\Code\SoftUniFundamentalsExtended2017\02MethodsExercises\04NthDigit\obj\Debug\04NthDigit.csprojResolveAssemblyReference.cache
-D:\Code\SoftUniFundamentalsExtended2017\02MethodsExercises\04NthDigit\obj\Debug\04NthDigit.exe
-D:\Code\SoftUniFundamentalsExtended2017\02MethodsExercises\04NthDigit\obj\Debug\04NthDigit.pdb

@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\14IntegerToHexAndBinary\bin\Debug\14IntegerToHexAndBinary.pdb
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\14IntegerToHexAndBinary\obj\Debug\14IntegerToHexAndBinary.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\14IntegerToHexAndBinary\obj\Debug\14IntegerToHexAndBinary.pdb

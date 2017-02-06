@@ -1,6 +1,0 @@
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\104Tres4Numbers\bin\Debug\104Tres4Numbers.exe.config
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\104Tres4Numbers\bin\Debug\104Tres4Numbers.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\104Tres4Numbers\bin\Debug\104Tres4Numbers.pdb
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\104Tres4Numbers\obj\Debug\104Tres4Numbers.csprojResolveAssemblyReference.cache
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\104Tres4Numbers\obj\Debug\104Tres4Numbers.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\104Tres4Numbers\obj\Debug\104Tres4Numbers.pdb

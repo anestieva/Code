@@ -1,5 +1,0 @@
-E:\Code\SoftUni\05Loops\03Letter\bin\Debug\03Letter.exe.config
-E:\Code\SoftUni\05Loops\03Letter\bin\Debug\03Letter.exe
-E:\Code\SoftUni\05Loops\03Letter\bin\Debug\03Letter.pdb
-E:\Code\SoftUni\05Loops\03Letter\obj\Debug\03Letter.exe
-E:\Code\SoftUni\05Loops\03Letter\obj\Debug\03Letter.pdb

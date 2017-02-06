@@ -1,6 +1,0 @@
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\109GenomeDecoder\bin\Debug\109GenomeDecoder.exe.config
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\109GenomeDecoder\bin\Debug\109GenomeDecoder.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\109GenomeDecoder\bin\Debug\109GenomeDecoder.pdb
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\109GenomeDecoder\obj\Debug\109GenomeDecoder.csprojResolveAssemblyReference.cache
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\109GenomeDecoder\obj\Debug\109GenomeDecoder.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\109GenomeDecoder\obj\Debug\109GenomeDecoder.pdb

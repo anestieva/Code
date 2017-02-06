@@ -1,5 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\13EqualWords\bin\Debug\13EqualWords.exe.config
-E:\Code\SoftUni\03SimpleConditions\13EqualWords\bin\Debug\13EqualWords.exe
-E:\Code\SoftUni\03SimpleConditions\13EqualWords\bin\Debug\13EqualWords.pdb
-E:\Code\SoftUni\03SimpleConditions\13EqualWords\obj\Debug\13EqualWords.exe
-E:\Code\SoftUni\03SimpleConditions\13EqualWords\obj\Debug\13EqualWords.pdb

@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\05SortNumbers\bin\Debug\05SortNumbers.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\05SortNumbers\bin\Debug\05SortNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\05SortNumbers\bin\Debug\05SortNumbers.pdb
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\05SortNumbers\obj\Debug\05SortNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\05SortNumbers\obj\Debug\05SortNumbers.pdb

@@ -1,1 +1,0 @@
-E:\Code\TelerikHomeworksC#2\03Methods\07ReverseNumber\bin\Debug\07ReverseNumber.exe.config

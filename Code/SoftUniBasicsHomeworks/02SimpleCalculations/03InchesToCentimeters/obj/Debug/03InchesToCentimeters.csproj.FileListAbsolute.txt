@@ -1,5 +1,0 @@
-E:\Code\SoftUni\02SimpleCalculations\03InchesToCentimeters\bin\Debug\03InchesToCentimeters.exe.config
-E:\Code\SoftUni\02SimpleCalculations\03InchesToCentimeters\bin\Debug\03InchesToCentimeters.exe
-E:\Code\SoftUni\02SimpleCalculations\03InchesToCentimeters\bin\Debug\03InchesToCentimeters.pdb
-E:\Code\SoftUni\02SimpleCalculations\03InchesToCentimeters\obj\Debug\03InchesToCentimeters.exe
-E:\Code\SoftUni\02SimpleCalculations\03InchesToCentimeters\obj\Debug\03InchesToCentimeters.pdb

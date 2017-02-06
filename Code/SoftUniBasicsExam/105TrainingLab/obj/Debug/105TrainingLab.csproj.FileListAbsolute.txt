@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\105TrainingLab\bin\Debug\105TrainingLab.exe.config
-E:\Code\SoftUniBasicsExam\105TrainingLab\bin\Debug\105TrainingLab.exe
-E:\Code\SoftUniBasicsExam\105TrainingLab\bin\Debug\105TrainingLab.pdb
-E:\Code\SoftUniBasicsExam\105TrainingLab\obj\Debug\105TrainingLab.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\105TrainingLab\obj\Debug\105TrainingLab.exe
-E:\Code\SoftUniBasicsExam\105TrainingLab\obj\Debug\105TrainingLab.pdb

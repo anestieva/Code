@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\09IndexOfLetters\bin\Debug\09IndexOfLetters.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\09IndexOfLetters\bin\Debug\09IndexOfLetters.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\09IndexOfLetters\bin\Debug\09IndexOfLetters.pdb
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\09IndexOfLetters\obj\Debug\09IndexOfLetters.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\09IndexOfLetters\obj\Debug\09IndexOfLetters.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\09IndexOfLetters\obj\Debug\09IndexOfLetters.pdb

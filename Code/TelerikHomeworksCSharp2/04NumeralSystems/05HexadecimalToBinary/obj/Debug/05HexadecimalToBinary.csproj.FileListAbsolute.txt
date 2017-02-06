@@ -1,1 +1,0 @@
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\05HexadecimalToBinary\bin\Debug\05HexadecimalToBinary.exe.config

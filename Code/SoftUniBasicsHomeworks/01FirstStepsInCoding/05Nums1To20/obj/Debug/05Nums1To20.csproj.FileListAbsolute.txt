@@ -1,5 +1,0 @@
-E:\Code\SoftUni\FirstStepsInCoding\05Nums1To20\bin\Debug\05Nums1To20.exe.config
-E:\Code\SoftUni\FirstStepsInCoding\05Nums1To20\bin\Debug\05Nums1To20.exe
-E:\Code\SoftUni\FirstStepsInCoding\05Nums1To20\bin\Debug\05Nums1To20.pdb
-E:\Code\SoftUni\FirstStepsInCoding\05Nums1To20\obj\Debug\05Nums1To20.exe
-E:\Code\SoftUni\FirstStepsInCoding\05Nums1To20\obj\Debug\05Nums1To20.pdb

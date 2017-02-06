@@ -1,5 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\02SmallShop\bin\Debug\02SmallShop.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\02SmallShop\bin\Debug\02SmallShop.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\02SmallShop\bin\Debug\02SmallShop.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\02SmallShop\obj\Debug\02SmallShop.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\02SmallShop\obj\Debug\02SmallShop.pdb

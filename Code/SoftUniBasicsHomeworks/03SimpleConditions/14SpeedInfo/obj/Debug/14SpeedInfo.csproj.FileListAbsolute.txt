@@ -1,6 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\14SpeedInfo\bin\Debug\14SpeedInfo.exe.config
-E:\Code\SoftUni\03SimpleConditions\14SpeedInfo\bin\Debug\14SpeedInfo.exe
-E:\Code\SoftUni\03SimpleConditions\14SpeedInfo\bin\Debug\14SpeedInfo.pdb
-E:\Code\SoftUni\03SimpleConditions\14SpeedInfo\obj\Debug\14SpeedInfo.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\03SimpleConditions\14SpeedInfo\obj\Debug\14SpeedInfo.exe
-E:\Code\SoftUni\03SimpleConditions\14SpeedInfo\obj\Debug\14SpeedInfo.pdb

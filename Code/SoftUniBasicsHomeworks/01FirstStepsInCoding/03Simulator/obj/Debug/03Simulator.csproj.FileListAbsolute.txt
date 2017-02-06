@@ -1,9 +1,0 @@
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\bin\Debug\03Simulator.exe.config
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\bin\Debug\03Simulator.exe
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\bin\Debug\03Simulator.pdb
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\obj\Debug\03Simulator.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\obj\Debug\_03Simulator.Form1.resources
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\obj\Debug\_03Simulator.Properties.Resources.resources
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\obj\Debug\03Simulator.csproj.GenerateResource.Cache
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\obj\Debug\03Simulator.exe
-E:\Code\SoftUni\FirstStepsInCoding\03Simulator\obj\Debug\03Simulator.pdb

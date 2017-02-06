@@ -1,6 +1,0 @@
-E:\Code\SoftUni\FirstStepsInCoding\06TriangleOf55Stars\bin\Debug\06TriangleOf55Stars.exe.config
-E:\Code\SoftUni\FirstStepsInCoding\06TriangleOf55Stars\bin\Debug\06TriangleOf55Stars.exe
-E:\Code\SoftUni\FirstStepsInCoding\06TriangleOf55Stars\bin\Debug\06TriangleOf55Stars.pdb
-E:\Code\SoftUni\FirstStepsInCoding\06TriangleOf55Stars\obj\Debug\06TriangleOf55Stars.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\FirstStepsInCoding\06TriangleOf55Stars\obj\Debug\06TriangleOf55Stars.exe
-E:\Code\SoftUni\FirstStepsInCoding\06TriangleOf55Stars\obj\Debug\06TriangleOf55Stars.pdb

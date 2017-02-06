@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\604MagicCombination\bin\Debug\604MagicCombination.exe.config
-E:\Code\SoftUniBasicsExam\604MagicCombination\bin\Debug\604MagicCombination.exe
-E:\Code\SoftUniBasicsExam\604MagicCombination\bin\Debug\604MagicCombination.pdb
-E:\Code\SoftUniBasicsExam\604MagicCombination\obj\Debug\604MagicCombination.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\604MagicCombination\obj\Debug\604MagicCombination.exe
-E:\Code\SoftUniBasicsExam\604MagicCombination\obj\Debug\604MagicCombination.pdb

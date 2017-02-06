@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\503Axe\bin\Debug\503Axe.exe.config
-E:\Code\SoftUniBasicsExam\503Axe\bin\Debug\503Axe.exe
-E:\Code\SoftUniBasicsExam\503Axe\bin\Debug\503Axe.pdb
-E:\Code\SoftUniBasicsExam\503Axe\obj\Debug\503Axe.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\503Axe\obj\Debug\503Axe.exe
-E:\Code\SoftUniBasicsExam\503Axe\obj\Debug\503Axe.pdb

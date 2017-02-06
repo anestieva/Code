@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\202SleepingCatTom\bin\Debug\202SleepingCatTom.exe.config
-E:\Code\SoftUniBasicsExam\202SleepingCatTom\bin\Debug\202SleepingCatTom.exe
-E:\Code\SoftUniBasicsExam\202SleepingCatTom\bin\Debug\202SleepingCatTom.pdb
-E:\Code\SoftUniBasicsExam\202SleepingCatTom\obj\Debug\202SleepingCatTom.exe
-E:\Code\SoftUniBasicsExam\202SleepingCatTom\obj\Debug\202SleepingCatTom.pdb
-E:\Code\SoftUniBasicsExam\202SleepingCatTom\obj\Debug\202SleepingCatTom.csprojResolveAssemblyReference.cache

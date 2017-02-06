@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\603Digits\bin\Debug\603Digits.exe.config
-E:\Code\SoftUniBasicsExam\603Digits\bin\Debug\603Digits.exe
-E:\Code\SoftUniBasicsExam\603Digits\bin\Debug\603Digits.pdb
-E:\Code\SoftUniBasicsExam\603Digits\obj\Debug\603Digits.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\603Digits\obj\Debug\603Digits.exe
-E:\Code\SoftUniBasicsExam\603Digits\obj\Debug\603Digits.pdb

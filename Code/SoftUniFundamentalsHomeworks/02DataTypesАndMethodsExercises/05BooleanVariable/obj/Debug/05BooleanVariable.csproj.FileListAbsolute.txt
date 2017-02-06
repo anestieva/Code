@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\05BooleanVariable\bin\Debug\05BooleanVariable.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\05BooleanVariable\bin\Debug\05BooleanVariable.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\05BooleanVariable\bin\Debug\05BooleanVariable.pdb
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\05BooleanVariable\obj\Debug\05BooleanVariable.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\05BooleanVariable\obj\Debug\05BooleanVariable.pdb

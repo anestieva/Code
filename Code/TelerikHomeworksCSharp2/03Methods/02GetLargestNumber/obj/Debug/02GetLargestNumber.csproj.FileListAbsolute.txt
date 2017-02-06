@@ -1,2 +1,0 @@
-E:\Code\TelerikHomeworksC#2\03Methods\02GetLargestNumber\bin\Debug\02GetLargestNumber.exe.config
-E:\Code\TelerikHomeworksCSharp2\03Methods\02GetLargestNumber\bin\Debug\02GetLargestNumber.exe.config

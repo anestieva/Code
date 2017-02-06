@@ -1,5 +1,0 @@
-E:\Code\SoftUniBasicsExam\502Stop\bin\Debug\502Stop.exe.config
-E:\Code\SoftUniBasicsExam\502Stop\bin\Debug\502Stop.exe
-E:\Code\SoftUniBasicsExam\502Stop\bin\Debug\502Stop.pdb
-E:\Code\SoftUniBasicsExam\502Stop\obj\Debug\502Stop.exe
-E:\Code\SoftUniBasicsExam\502Stop\obj\Debug\502Stop.pdb

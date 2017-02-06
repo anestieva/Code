@@ -1,6 +1,0 @@
-E:\Code\SoftUniBasicsExam\305OnTimeForTheExam\bin\Debug\305OnTimeForTheExam.exe.config
-E:\Code\SoftUniBasicsExam\305OnTimeForTheExam\bin\Debug\305OnTimeForTheExam.exe
-E:\Code\SoftUniBasicsExam\305OnTimeForTheExam\bin\Debug\305OnTimeForTheExam.pdb
-E:\Code\SoftUniBasicsExam\305OnTimeForTheExam\obj\Debug\305OnTimeForTheExam.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniBasicsExam\305OnTimeForTheExam\obj\Debug\305OnTimeForTheExam.exe
-E:\Code\SoftUniBasicsExam\305OnTimeForTheExam\obj\Debug\305OnTimeForTheExam.pdb

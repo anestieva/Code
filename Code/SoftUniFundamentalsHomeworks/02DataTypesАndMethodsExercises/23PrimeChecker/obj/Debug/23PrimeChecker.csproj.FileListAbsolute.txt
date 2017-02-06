@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\23PrimeChecker\bin\Debug\23PrimeChecker.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\23PrimeChecker\bin\Debug\23PrimeChecker.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\23PrimeChecker\bin\Debug\23PrimeChecker.pdb
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\23PrimeChecker\obj\Debug\23PrimeChecker.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\23PrimeChecker\obj\Debug\23PrimeChecker.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\23PrimeChecker\obj\Debug\23PrimeChecker.pdb

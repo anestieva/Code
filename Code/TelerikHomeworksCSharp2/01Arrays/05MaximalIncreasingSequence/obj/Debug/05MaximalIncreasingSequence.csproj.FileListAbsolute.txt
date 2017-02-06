@@ -1,6 +1,0 @@
-E:\Code\TelerikHomeworksC#2\01Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe.config
-E:\Code\TelerikHomeworksC#2\01Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.exe
-E:\Code\TelerikHomeworksC#2\01Arrays\05MaximalIncreasingSequence\bin\Debug\05MaximalIncreasingSequence.pdb
-E:\Code\TelerikHomeworksC#2\01Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.exe
-E:\Code\TelerikHomeworksC#2\01Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.pdb
-E:\Code\TelerikHomeworksC#2\01Arrays\05MaximalIncreasingSequence\obj\Debug\05MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

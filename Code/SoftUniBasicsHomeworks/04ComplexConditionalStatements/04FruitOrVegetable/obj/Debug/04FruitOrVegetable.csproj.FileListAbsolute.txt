@@ -1,1 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\04FruitOrVegetable\bin\Debug\04FruitOrVegetable.exe.config

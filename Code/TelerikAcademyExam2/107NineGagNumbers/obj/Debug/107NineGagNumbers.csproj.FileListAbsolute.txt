@@ -1,6 +1,0 @@
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\107NineGagNumbers\bin\Debug\107NineGagNumbers.exe.config
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\107NineGagNumbers\bin\Debug\107NineGagNumbers.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\107NineGagNumbers\bin\Debug\107NineGagNumbers.pdb
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\107NineGagNumbers\obj\Debug\107NineGagNumbers.csprojResolveAssemblyReference.cache
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\107NineGagNumbers\obj\Debug\107NineGagNumbers.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\107NineGagNumbers\obj\Debug\107NineGagNumbers.pdb

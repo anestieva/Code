@@ -1,6 +1,0 @@
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\106KaspichanNumbers\bin\Debug\106KaspichanNumbers.exe.config
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\106KaspichanNumbers\bin\Debug\106KaspichanNumbers.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\106KaspichanNumbers\bin\Debug\106KaspichanNumbers.pdb
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\106KaspichanNumbers\obj\Debug\106KaspichanNumbers.csprojResolveAssemblyReference.cache
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\106KaspichanNumbers\obj\Debug\106KaspichanNumbers.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\106KaspichanNumbers\obj\Debug\106KaspichanNumbers.pdb

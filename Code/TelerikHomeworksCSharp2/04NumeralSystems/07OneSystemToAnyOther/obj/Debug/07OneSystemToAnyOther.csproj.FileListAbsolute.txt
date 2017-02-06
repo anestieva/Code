@@ -1,5 +1,0 @@
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.exe.config
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\07OneSystemToAnyOther\bin\Debug\07OneSystemToAnyOther.pdb
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\07OneSystemToAnyOther\obj\Debug\07OneSystemToAnyOther.pdb

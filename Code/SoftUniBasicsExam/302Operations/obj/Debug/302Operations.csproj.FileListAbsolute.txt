@@ -1,5 +1,0 @@
-E:\Code\SoftUniBasicsExam\302Operations\bin\Debug\302Operations.exe.config
-E:\Code\SoftUniBasicsExam\302Operations\bin\Debug\302Operations.exe
-E:\Code\SoftUniBasicsExam\302Operations\bin\Debug\302Operations.pdb
-E:\Code\SoftUniBasicsExam\302Operations\obj\Debug\302Operations.exe
-E:\Code\SoftUniBasicsExam\302Operations\obj\Debug\302Operations.pdb

@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\03DiagonalDifference\bin\Debug\03DiagonalDifference.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\03DiagonalDifference\bin\Debug\03DiagonalDifference.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\03DiagonalDifference\bin\Debug\03DiagonalDifference.pdb
-E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\03DiagonalDifference\obj\Debug\03DiagonalDifference.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\03DiagonalDifference\obj\Debug\03DiagonalDifference.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\03DiagonalDifference\obj\Debug\03DiagonalDifference.pdb

@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsExam\201ArrayManipulator\bin\Debug\201ArrayManipulator.exe.config
-E:\Code\SoftUniFundamentalsExam\201ArrayManipulator\bin\Debug\201ArrayManipulator.exe
-E:\Code\SoftUniFundamentalsExam\201ArrayManipulator\bin\Debug\201ArrayManipulator.pdb
-E:\Code\SoftUniFundamentalsExam\201ArrayManipulator\obj\Debug\201ArrayManipulator.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsExam\201ArrayManipulator\obj\Debug\201ArrayManipulator.exe
-E:\Code\SoftUniFundamentalsExam\201ArrayManipulator\obj\Debug\201ArrayManipulator.pdb

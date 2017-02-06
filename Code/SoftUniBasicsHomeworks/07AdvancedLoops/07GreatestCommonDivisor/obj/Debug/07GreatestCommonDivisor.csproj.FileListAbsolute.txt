@@ -1,6 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\07GreatestCommonDivisor\bin\Debug\07GreatestCommonDivisor.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\07GreatestCommonDivisor\bin\Debug\07GreatestCommonDivisor.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\07GreatestCommonDivisor\bin\Debug\07GreatestCommonDivisor.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\07GreatestCommonDivisor\obj\Debug\07GreatestCommonDivisor.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\07GreatestCommonDivisor\obj\Debug\07GreatestCommonDivisor.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\07GreatestCommonDivisor\obj\Debug\07GreatestCommonDivisor.pdb

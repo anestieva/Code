@@ -1,6 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\16ThreeEqualNumbers\bin\Debug\16ThreeEqualNumbers.exe.config
-E:\Code\SoftUni\03SimpleConditions\16ThreeEqualNumbers\bin\Debug\16ThreeEqualNumbers.exe
-E:\Code\SoftUni\03SimpleConditions\16ThreeEqualNumbers\bin\Debug\16ThreeEqualNumbers.pdb
-E:\Code\SoftUni\03SimpleConditions\16ThreeEqualNumbers\obj\Debug\16ThreeEqualNumbers.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\03SimpleConditions\16ThreeEqualNumbers\obj\Debug\16ThreeEqualNumbers.exe
-E:\Code\SoftUni\03SimpleConditions\16ThreeEqualNumbers\obj\Debug\16ThreeEqualNumbers.pdb

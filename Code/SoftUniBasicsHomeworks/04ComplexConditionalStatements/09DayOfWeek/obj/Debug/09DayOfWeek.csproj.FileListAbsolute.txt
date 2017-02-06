@@ -1,5 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\09DayOfWeek\bin\Debug\09DayOfWeek.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\09DayOfWeek\bin\Debug\09DayOfWeek.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\09DayOfWeek\bin\Debug\09DayOfWeek.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\09DayOfWeek\obj\Debug\09DayOfWeek.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\09DayOfWeek\obj\Debug\09DayOfWeek.pdb

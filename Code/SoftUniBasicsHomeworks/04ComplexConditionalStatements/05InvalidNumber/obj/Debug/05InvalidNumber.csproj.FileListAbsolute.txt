@@ -1,6 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\05InvalidNumber\bin\Debug\05InvalidNumber.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\05InvalidNumber\bin\Debug\05InvalidNumber.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\05InvalidNumber\bin\Debug\05InvalidNumber.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\05InvalidNumber\obj\Debug\05InvalidNumber.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\04ComplexConditionalStatements\05InvalidNumber\obj\Debug\05InvalidNumber.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\05InvalidNumber\obj\Debug\05InvalidNumber.pdb

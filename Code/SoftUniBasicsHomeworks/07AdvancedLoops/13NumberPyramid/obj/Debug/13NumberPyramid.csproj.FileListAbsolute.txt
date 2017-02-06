@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\13NumberPyramid\bin\Debug\13NumberPyramid.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\13NumberPyramid\bin\Debug\13NumberPyramid.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\13NumberPyramid\bin\Debug\13NumberPyramid.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\13NumberPyramid\obj\Debug\13NumberPyramid.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\13NumberPyramid\obj\Debug\13NumberPyramid.pdb

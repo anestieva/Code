@@ -1,9 +1,0 @@
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\bin\Debug\09BGNToEURConverter.exe.config
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\bin\Debug\09BGNToEURConverter.exe
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\bin\Debug\09BGNToEURConverter.pdb
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\obj\Debug\09BGNToEURConverter.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\obj\Debug\_09BGNToEURConverter.Converter.resources
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\obj\Debug\_09BGNToEURConverter.Properties.Resources.resources
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\obj\Debug\09BGNToEURConverter.csproj.GenerateResource.Cache
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\obj\Debug\09BGNToEURConverter.exe
-E:\Code\SoftUni\02SimpleCalculations\09BGNToEURConverter\obj\Debug\09BGNToEURConverter.pdb

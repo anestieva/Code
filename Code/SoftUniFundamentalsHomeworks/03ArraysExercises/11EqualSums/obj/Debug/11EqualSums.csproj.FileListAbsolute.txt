@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\11EqualSums\bin\Debug\11EqualSums.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\11EqualSums\bin\Debug\11EqualSums.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\11EqualSums\bin\Debug\11EqualSums.pdb
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\11EqualSums\obj\Debug\11EqualSums.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\11EqualSums\obj\Debug\11EqualSums.exe
-E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\11EqualSums\obj\Debug\11EqualSums.pdb

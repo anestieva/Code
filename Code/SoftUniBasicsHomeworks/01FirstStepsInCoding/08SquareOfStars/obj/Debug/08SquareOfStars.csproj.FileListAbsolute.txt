@@ -1,5 +1,0 @@
-E:\Code\SoftUni\FirstStepsInCoding\08SquareOfStars\bin\Debug\08SquareOfStars.exe.config
-E:\Code\SoftUni\FirstStepsInCoding\08SquareOfStars\bin\Debug\08SquareOfStars.exe
-E:\Code\SoftUni\FirstStepsInCoding\08SquareOfStars\bin\Debug\08SquareOfStars.pdb
-E:\Code\SoftUni\FirstStepsInCoding\08SquareOfStars\obj\Debug\08SquareOfStars.exe
-E:\Code\SoftUni\FirstStepsInCoding\08SquareOfStars\obj\Debug\08SquareOfStars.pdb

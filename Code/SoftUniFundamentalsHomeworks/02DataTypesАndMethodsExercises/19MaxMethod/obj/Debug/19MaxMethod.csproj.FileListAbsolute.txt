@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\19MaxMethod\bin\Debug\19MaxMethod.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\19MaxMethod\bin\Debug\19MaxMethod.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\19MaxMethod\bin\Debug\19MaxMethod.pdb
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\19MaxMethod\obj\Debug\19MaxMethod.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\19MaxMethod\obj\Debug\19MaxMethod.pdb

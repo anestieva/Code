@@ -1,9 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\bin\Debug\10CurrencyConverter.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\bin\Debug\10CurrencyConverter.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\bin\Debug\10CurrencyConverter.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\obj\Debug\10CurrencyConverter.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\obj\Debug\_10CurrencyConverter.Form1.resources
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\obj\Debug\_10CurrencyConverter.Properties.Resources.resources
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\obj\Debug\10CurrencyConverter.csproj.GenerateResource.Cache
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\obj\Debug\10CurrencyConverter.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\03SimpleConditions\10CurrencyConverter\obj\Debug\10CurrencyConverter.pdb

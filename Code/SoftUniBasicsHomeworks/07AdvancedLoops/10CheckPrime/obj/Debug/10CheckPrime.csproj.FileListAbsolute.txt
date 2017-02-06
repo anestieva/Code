@@ -1,6 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\10CheckPrime\bin\Debug\10CheckPrime.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\10CheckPrime\bin\Debug\10CheckPrime.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\10CheckPrime\bin\Debug\10CheckPrime.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\10CheckPrime\obj\Debug\10CheckPrime.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\10CheckPrime\obj\Debug\10CheckPrime.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\10CheckPrime\obj\Debug\10CheckPrime.pdb

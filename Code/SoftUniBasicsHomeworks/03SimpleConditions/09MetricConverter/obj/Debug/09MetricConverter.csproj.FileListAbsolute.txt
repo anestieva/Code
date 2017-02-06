@@ -1,6 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\09MetricConverter\bin\Debug\09MetricConverter.exe.config
-E:\Code\SoftUni\03SimpleConditions\09MetricConverter\bin\Debug\09MetricConverter.exe
-E:\Code\SoftUni\03SimpleConditions\09MetricConverter\bin\Debug\09MetricConverter.pdb
-E:\Code\SoftUni\03SimpleConditions\09MetricConverter\obj\Debug\09MetricConverter.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\03SimpleConditions\09MetricConverter\obj\Debug\09MetricConverter.exe
-E:\Code\SoftUni\03SimpleConditions\09MetricConverter\obj\Debug\09MetricConverter.pdb

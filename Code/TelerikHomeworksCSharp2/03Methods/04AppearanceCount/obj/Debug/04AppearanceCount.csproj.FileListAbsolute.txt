@@ -1,5 +1,0 @@
-E:\Code\TelerikHomeworksC#2\03Methods\04AppearanceCount\bin\Debug\04AppearanceCount.exe.config
-E:\Code\TelerikHomeworksC#2\03Methods\04AppearanceCount\bin\Debug\04AppearanceCount.exe
-E:\Code\TelerikHomeworksC#2\03Methods\04AppearanceCount\bin\Debug\04AppearanceCount.pdb
-E:\Code\TelerikHomeworksC#2\03Methods\04AppearanceCount\obj\Debug\04AppearanceCount.exe
-E:\Code\TelerikHomeworksC#2\03Methods\04AppearanceCount\obj\Debug\04AppearanceCount.pdb

@@ -1,6 +1,0 @@
-E:\Code\SoftUni\04ComplexConditionalStatements\08TradeComissions\bin\Debug\08TradeComissions.exe.config
-E:\Code\SoftUni\04ComplexConditionalStatements\08TradeComissions\bin\Debug\08TradeComissions.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\08TradeComissions\bin\Debug\08TradeComissions.pdb
-E:\Code\SoftUni\04ComplexConditionalStatements\08TradeComissions\obj\Debug\08TradeComissions.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\04ComplexConditionalStatements\08TradeComissions\obj\Debug\08TradeComissions.exe
-E:\Code\SoftUni\04ComplexConditionalStatements\08TradeComissions\obj\Debug\08TradeComissions.pdb

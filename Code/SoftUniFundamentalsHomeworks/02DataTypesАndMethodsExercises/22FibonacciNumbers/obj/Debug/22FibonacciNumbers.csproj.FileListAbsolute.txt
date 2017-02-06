@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\22FibonacciNumbers\bin\Debug\22FibonacciNumbers.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\22FibonacciNumbers\bin\Debug\22FibonacciNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\22FibonacciNumbers\bin\Debug\22FibonacciNumbers.pdb
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\22FibonacciNumbers\obj\Debug\22FibonacciNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\22FibonacciNumbers\obj\Debug\22FibonacciNumbers.pdb

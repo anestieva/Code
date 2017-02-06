@@ -1,5 +1,0 @@
-E:\Code\TelerikHomeworksC#2\01Arrays\12MergeSort\bin\Debug\12MergeSort.exe.config
-E:\Code\TelerikHomeworksC#2\01Arrays\12MergeSort\bin\Debug\12MergeSort.exe
-E:\Code\TelerikHomeworksC#2\01Arrays\12MergeSort\bin\Debug\12MergeSort.pdb
-E:\Code\TelerikHomeworksC#2\01Arrays\12MergeSort\obj\Debug\12MergeSort.exe
-E:\Code\TelerikHomeworksC#2\01Arrays\12MergeSort\obj\Debug\12MergeSort.pdb

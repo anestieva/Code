@@ -1,3 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\03OddOrEven\bin\Debug\03OddOrEven.exe.config
-E:\Code\SoftUni\03SimpleConditions\03OddOrEven\obj\Debug\03OddOrEven.exe
-E:\Code\SoftUni\03SimpleConditions\03OddOrEven\obj\Debug\03OddOrEven.pdb

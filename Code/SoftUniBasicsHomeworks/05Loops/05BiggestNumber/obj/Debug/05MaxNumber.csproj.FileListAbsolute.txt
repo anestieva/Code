@@ -1,5 +1,0 @@
-E:\Code\SoftUni\05Loops\05BiggestNumber\bin\Debug\05BiggestNumber.exe.config
-E:\Code\SoftUni\05Loops\05BiggestNumber\obj\Debug\05BiggestNumber.exe
-E:\Code\SoftUni\05Loops\05BiggestNumber\obj\Debug\05BiggestNumber.pdb
-E:\Code\SoftUni\05Loops\05BiggestNumber\bin\Debug\05BiggestNumber.exe
-E:\Code\SoftUni\05Loops\05BiggestNumber\bin\Debug\05BiggestNumber.pdb

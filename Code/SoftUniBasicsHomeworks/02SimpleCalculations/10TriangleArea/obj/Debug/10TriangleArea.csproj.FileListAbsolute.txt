@@ -1,7 +1,0 @@
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\bin\Debug\10TriangleArea.exe.config
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\bin\Debug\10TriangleArea.exe
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\bin\Debug\10TriangleArea.pdb
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\obj\Debug\10TriangleArea.csprojResolveAssemblyReference.cache
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\obj\Debug\10TriangleArea.exe
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\obj\Debug\10TriangleArea.pdb
-E:\Code\SoftUni\02SimpleCalculations\10TriangleArea\obj\Debug\10TriangleArea.TrustInfo.xml

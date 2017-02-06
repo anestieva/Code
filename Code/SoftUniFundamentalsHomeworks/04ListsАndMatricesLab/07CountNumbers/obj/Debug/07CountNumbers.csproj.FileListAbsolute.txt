@@ -1,5 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\07CountNumbers\bin\Debug\07CountNumbers.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\07CountNumbers\bin\Debug\07CountNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\07CountNumbers\bin\Debug\07CountNumbers.pdb
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\07CountNumbers\obj\Debug\07CountNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\07CountNumbers\obj\Debug\07CountNumbers.pdb

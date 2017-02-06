@@ -1,5 +1,0 @@
-E:\Code\SoftUniBasicsExam\205TransportPrice\bin\Debug\205TransportPrice.exe.config
-E:\Code\SoftUniBasicsExam\205TransportPrice\bin\Debug\205TransportPrice.exe
-E:\Code\SoftUniBasicsExam\205TransportPrice\bin\Debug\205TransportPrice.pdb
-E:\Code\SoftUniBasicsExam\205TransportPrice\obj\Debug\205TransportPrice.exe
-E:\Code\SoftUniBasicsExam\205TransportPrice\obj\Debug\205TransportPrice.pdb

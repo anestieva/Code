@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\10Diamond\bin\Debug\10Diamond.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\10Diamond\bin\Debug\10Diamond.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\10Diamond\bin\Debug\10Diamond.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\10Diamond\obj\Debug\10Diamond.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\10Diamond\obj\Debug\10Diamond.pdb

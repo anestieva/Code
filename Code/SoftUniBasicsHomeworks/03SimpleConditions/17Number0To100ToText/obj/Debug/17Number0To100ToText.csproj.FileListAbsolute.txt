@@ -1,5 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\17Number0To100ToText\bin\Debug\17Number0To100ToText.exe.config
-E:\Code\SoftUni\03SimpleConditions\17Number0To100ToText\bin\Debug\17Number0To100ToText.exe
-E:\Code\SoftUni\03SimpleConditions\17Number0To100ToText\bin\Debug\17Number0To100ToText.pdb
-E:\Code\SoftUni\03SimpleConditions\17Number0To100ToText\obj\Debug\17Number0To100ToText.exe
-E:\Code\SoftUni\03SimpleConditions\17Number0To100ToText\obj\Debug\17Number0To100ToText.pdb

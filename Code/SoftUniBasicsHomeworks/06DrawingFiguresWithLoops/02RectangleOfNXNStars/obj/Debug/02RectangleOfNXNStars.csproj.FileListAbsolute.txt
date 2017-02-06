@@ -1,5 +1,0 @@
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\02RectangleOfNXNStars\bin\Debug\02RectangleOfNXNStars.exe.config
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\02RectangleOfNXNStars\bin\Debug\02RectangleOfNXNStars.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\02RectangleOfNXNStars\bin\Debug\02RectangleOfNXNStars.pdb
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\02RectangleOfNXNStars\obj\Debug\02RectangleOfNXNStars.exe
-E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\02RectangleOfNXNStars\obj\Debug\02RectangleOfNXNStars.pdb

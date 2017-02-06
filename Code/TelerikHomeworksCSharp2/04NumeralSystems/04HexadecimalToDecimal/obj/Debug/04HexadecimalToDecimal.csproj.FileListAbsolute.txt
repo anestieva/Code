@@ -1,6 +1,0 @@
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\04HexadecimalToDecimal\bin\Debug\04HexadecimalToDecimal.exe.config
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\04HexadecimalToDecimal\obj\Debug\04HexadecimalToDecimal.csprojResolveAssemblyReference.cache
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\04HexadecimalToDecimal\bin\Debug\04HexadecimalToDecimal.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\04HexadecimalToDecimal\bin\Debug\04HexadecimalToDecimal.pdb
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\04HexadecimalToDecimal\obj\Debug\04HexadecimalToDecimal.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\04HexadecimalToDecimal\obj\Debug\04HexadecimalToDecimal.pdb

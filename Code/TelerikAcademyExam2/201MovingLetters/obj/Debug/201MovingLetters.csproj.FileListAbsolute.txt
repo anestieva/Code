@@ -1,6 +1,0 @@
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\201MovingLetters\bin\Debug\201MovingLetters.exe.config
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\201MovingLetters\bin\Debug\201MovingLetters.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\201MovingLetters\bin\Debug\201MovingLetters.pdb
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\201MovingLetters\obj\Debug\201MovingLetters.csprojResolveAssemblyReference.cache
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\201MovingLetters\obj\Debug\201MovingLetters.exe
-E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\201MovingLetters\obj\Debug\201MovingLetters.pdb

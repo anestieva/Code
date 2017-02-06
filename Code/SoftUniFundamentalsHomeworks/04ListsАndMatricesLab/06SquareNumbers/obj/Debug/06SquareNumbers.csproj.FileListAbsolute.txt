@@ -1,6 +1,0 @@
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\06SquareNumbers\bin\Debug\06SquareNumbers.exe.config
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\06SquareNumbers\bin\Debug\06SquareNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\06SquareNumbers\bin\Debug\06SquareNumbers.pdb
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\06SquareNumbers\obj\Debug\06SquareNumbers.csprojResolveAssemblyReference.cache
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\06SquareNumbers\obj\Debug\06SquareNumbers.exe
-E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\06SquareNumbers\obj\Debug\06SquareNumbers.pdb

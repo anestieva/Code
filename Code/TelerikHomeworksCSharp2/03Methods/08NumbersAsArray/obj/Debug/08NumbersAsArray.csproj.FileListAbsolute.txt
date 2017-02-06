@@ -1,1 +1,0 @@
-E:\Code\TelerikHomeworksC#2\03Methods\08NumbersAsArray\bin\Debug\08NumbersAsArray.exe.config

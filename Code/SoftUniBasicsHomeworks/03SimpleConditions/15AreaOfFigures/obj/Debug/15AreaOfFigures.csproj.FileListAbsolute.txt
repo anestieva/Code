@@ -1,5 +1,0 @@
-E:\Code\SoftUni\03SimpleConditions\15AreaOfFigures\bin\Debug\15AreaOfFigures.exe.config
-E:\Code\SoftUni\03SimpleConditions\15AreaOfFigures\bin\Debug\15AreaOfFigures.exe
-E:\Code\SoftUni\03SimpleConditions\15AreaOfFigures\bin\Debug\15AreaOfFigures.pdb
-E:\Code\SoftUni\03SimpleConditions\15AreaOfFigures\obj\Debug\15AreaOfFigures.exe
-E:\Code\SoftUni\03SimpleConditions\15AreaOfFigures\obj\Debug\15AreaOfFigures.pdb

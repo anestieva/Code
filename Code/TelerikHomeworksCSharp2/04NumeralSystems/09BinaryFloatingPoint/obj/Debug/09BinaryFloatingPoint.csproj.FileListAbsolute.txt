@@ -1,5 +1,0 @@
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\09BinaryFloatingPoint\bin\Debug\09BinaryFloatingPoint.exe.config
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\09BinaryFloatingPoint\bin\Debug\09BinaryFloatingPoint.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\09BinaryFloatingPoint\bin\Debug\09BinaryFloatingPoint.pdb
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\09BinaryFloatingPoint\obj\Debug\09BinaryFloatingPoint.exe
-E:\Code\TelerikHomeworksC#2\04NumeralSystems\09BinaryFloatingPoint\obj\Debug\09BinaryFloatingPoint.pdb
