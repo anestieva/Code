@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\15ComparingFloats\bin\Debug\15ComparingFloats.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\15ComparingFloats\bin\Debug\15ComparingFloats.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\15ComparingFloats\bin\Debug\15ComparingFloats.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\15ComparingFloats\obj\Debug\15ComparingFloats.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\15ComparingFloats\obj\Debug\15ComparingFloats.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\15ComparingFloats\obj\Debug\15ComparingFloats.pdb

@@ -1,0 +1,9 @@
+E:\Code\SoftUniBasicsExam\201Harvest\bin\Debug\201Harvest.exe.config
+E:\Code\SoftUniBasicsExam\201Harvest\bin\Debug\201Harvest.exe
+E:\Code\SoftUniBasicsExam\201Harvest\bin\Debug\201Harvest.pdb
+E:\Code\SoftUniBasicsExam\201Harvest\obj\Debug\201Harvest.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\201Harvest\obj\Debug\201Harvest.exe
+E:\Code\SoftUniBasicsExam\201Harvest\obj\Debug\201Harvest.pdb
+E:\Code\SoftUniProgrammingBasicsExam\201Harvest\bin\Debug\201Harvest.exe.config
+E:\Code\SoftUniProgrammingBasicsExam\201Harvest\obj\Debug\201Harvest.exe
+E:\Code\SoftUniProgrammingBasicsExam\201Harvest\obj\Debug\201Harvest.pdb

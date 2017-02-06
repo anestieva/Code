@@ -1,0 +1,5 @@
+E:\Code\SoftUni\04ComplexConditionalStatements\03PointInRectangle\bin\Debug\03PointInRectangle.exe.config
+E:\Code\SoftUni\04ComplexConditionalStatements\03PointInRectangle\bin\Debug\03PointInRectangle.exe
+E:\Code\SoftUni\04ComplexConditionalStatements\03PointInRectangle\bin\Debug\03PointInRectangle.pdb
+E:\Code\SoftUni\04ComplexConditionalStatements\03PointInRectangle\obj\Debug\03PointInRectangle.exe
+E:\Code\SoftUni\04ComplexConditionalStatements\03PointInRectangle\obj\Debug\03PointInRectangle.pdb

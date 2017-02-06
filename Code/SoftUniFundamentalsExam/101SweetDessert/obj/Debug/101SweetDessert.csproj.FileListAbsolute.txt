@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExam\101SweetDessert\bin\Debug\101SweetDessert.exe.config
+E:\Code\SoftUniFundamentalsExam\101SweetDessert\bin\Debug\101SweetDessert.exe
+E:\Code\SoftUniFundamentalsExam\101SweetDessert\bin\Debug\101SweetDessert.pdb
+E:\Code\SoftUniFundamentalsExam\101SweetDessert\obj\Debug\101SweetDessert.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExam\101SweetDessert\obj\Debug\101SweetDessert.exe
+E:\Code\SoftUniFundamentalsExam\101SweetDessert\obj\Debug\101SweetDessert.pdb

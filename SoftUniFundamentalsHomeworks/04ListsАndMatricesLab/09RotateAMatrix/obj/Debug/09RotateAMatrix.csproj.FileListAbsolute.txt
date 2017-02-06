@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\09RotateAMatrix\bin\Debug\09RotateAMatrix.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\09RotateAMatrix\bin\Debug\09RotateAMatrix.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\09RotateAMatrix\bin\Debug\09RotateAMatrix.pdb
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\09RotateAMatrix\obj\Debug\09RotateAMatrix.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\09RotateAMatrix\obj\Debug\09RotateAMatrix.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\09RotateAMatrix\obj\Debug\09RotateAMatrix.pdb

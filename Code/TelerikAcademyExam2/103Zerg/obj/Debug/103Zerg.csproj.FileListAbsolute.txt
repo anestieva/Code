@@ -1,0 +1,5 @@
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\103Zerg\bin\Debug\103Zerg.exe.config
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\103Zerg\bin\Debug\103Zerg.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\103Zerg\bin\Debug\103Zerg.pdb
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\103Zerg\obj\Debug\103Zerg.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\103Zerg\obj\Debug\103Zerg.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUni\03SimpleConditions\12Number100To200\bin\Debug\12Number100To200.exe.config
+E:\Code\SoftUni\03SimpleConditions\12Number100To200\bin\Debug\12Number100To200.exe
+E:\Code\SoftUni\03SimpleConditions\12Number100To200\bin\Debug\12Number100To200.pdb
+E:\Code\SoftUni\03SimpleConditions\12Number100To200\obj\Debug\12Number100To200.exe
+E:\Code\SoftUni\03SimpleConditions\12Number100To200\obj\Debug\12Number100To200.pdb

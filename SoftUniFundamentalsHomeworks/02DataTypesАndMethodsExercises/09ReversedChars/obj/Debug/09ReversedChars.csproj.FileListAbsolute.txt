@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\09ReversedChars\bin\Debug\09ReversedChars.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\09ReversedChars\obj\Debug\09ReversedChars.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\09ReversedChars\bin\Debug\09ReversedChars.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\09ReversedChars\bin\Debug\09ReversedChars.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\09ReversedChars\obj\Debug\09ReversedChars.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\09ReversedChars\obj\Debug\09ReversedChars.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\04VariableInHexFormat\bin\Debug\04VariableInHexFormat.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\04VariableInHexFormat\bin\Debug\04VariableInHexFormat.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\04VariableInHexFormat\bin\Debug\04VariableInHexFormat.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\04VariableInHexFormat\obj\Debug\04VariableInHexFormat.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\04VariableInHexFormat\obj\Debug\04VariableInHexFormat.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUni\02SimpleCalculations\07CircleAreaAndPerimeter\bin\Debug\07CircleAreaAndPerimeter.exe.config
+E:\Code\SoftUni\02SimpleCalculations\07CircleAreaAndPerimeter\bin\Debug\07CircleAreaAndPerimeter.exe
+E:\Code\SoftUni\02SimpleCalculations\07CircleAreaAndPerimeter\bin\Debug\07CircleAreaAndPerimeter.pdb
+E:\Code\SoftUni\02SimpleCalculations\07CircleAreaAndPerimeter\obj\Debug\07CircleAreaAndPerimeter.exe
+E:\Code\SoftUni\02SimpleCalculations\07CircleAreaAndPerimeter\obj\Debug\07CircleAreaAndPerimeter.pdb

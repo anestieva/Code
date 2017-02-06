@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\03SumMinMaxFirstLastAverage\bin\Debug\03SumMinMaxFirstLastAverage.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\03SumMinMaxFirstLastAverage\bin\Debug\03SumMinMaxFirstLastAverage.exe
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\03SumMinMaxFirstLastAverage\bin\Debug\03SumMinMaxFirstLastAverage.pdb
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\03SumMinMaxFirstLastAverage\obj\Debug\03SumMinMaxFirstLastAverage.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\03SumMinMaxFirstLastAverage\obj\Debug\03SumMinMaxFirstLastAverage.exe
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysLab\03SumMinMaxFirstLastAverage\obj\Debug\03SumMinMaxFirstLastAverage.pdb

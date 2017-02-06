@@ -1,0 +1,6 @@
+E:\Code\SoftUni\02SimpleCalculations\15DaysAfterBirth\bin\Debug\15DaysAfterBirth.exe.config
+E:\Code\SoftUni\02SimpleCalculations\15DaysAfterBirth\bin\Debug\15DaysAfterBirth.exe
+E:\Code\SoftUni\02SimpleCalculations\15DaysAfterBirth\bin\Debug\15DaysAfterBirth.pdb
+E:\Code\SoftUni\02SimpleCalculations\15DaysAfterBirth\obj\Debug\15DaysAfterBirth.csprojResolveAssemblyReference.cache
+E:\Code\SoftUni\02SimpleCalculations\15DaysAfterBirth\obj\Debug\15DaysAfterBirth.exe
+E:\Code\SoftUni\02SimpleCalculations\15DaysAfterBirth\obj\Debug\15DaysAfterBirth.pdb

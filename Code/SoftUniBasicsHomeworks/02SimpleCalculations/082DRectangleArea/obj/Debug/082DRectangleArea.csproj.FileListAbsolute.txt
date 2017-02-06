@@ -1,0 +1,5 @@
+E:\Code\SoftUni\02SimpleCalculations\082DRectangleArea\bin\Debug\082DRectangleArea.exe.config
+E:\Code\SoftUni\02SimpleCalculations\082DRectangleArea\bin\Debug\082DRectangleArea.exe
+E:\Code\SoftUni\02SimpleCalculations\082DRectangleArea\bin\Debug\082DRectangleArea.pdb
+E:\Code\SoftUni\02SimpleCalculations\082DRectangleArea\obj\Debug\082DRectangleArea.exe
+E:\Code\SoftUni\02SimpleCalculations\082DRectangleArea\obj\Debug\082DRectangleArea.pdb

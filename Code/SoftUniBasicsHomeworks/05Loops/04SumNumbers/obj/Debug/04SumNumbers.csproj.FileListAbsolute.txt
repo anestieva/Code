@@ -1,0 +1,5 @@
+E:\Code\SoftUni\05Loops\04SumNumbers\bin\Debug\04SumNumbers.exe.config
+E:\Code\SoftUni\05Loops\04SumNumbers\bin\Debug\04SumNumbers.exe
+E:\Code\SoftUni\05Loops\04SumNumbers\bin\Debug\04SumNumbers.pdb
+E:\Code\SoftUni\05Loops\04SumNumbers\obj\Debug\04SumNumbers.exe
+E:\Code\SoftUni\05Loops\04SumNumbers\obj\Debug\04SumNumbers.pdb

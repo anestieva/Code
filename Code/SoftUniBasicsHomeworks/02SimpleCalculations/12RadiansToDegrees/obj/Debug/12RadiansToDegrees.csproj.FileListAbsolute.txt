@@ -1,0 +1,5 @@
+E:\Code\SoftUni\02SimpleCalculations\12RadiansToDegrees\bin\Debug\12RadiansToDegrees.exe.config
+E:\Code\SoftUni\02SimpleCalculations\12RadiansToDegrees\bin\Debug\12RadiansToDegrees.exe
+E:\Code\SoftUni\02SimpleCalculations\12RadiansToDegrees\bin\Debug\12RadiansToDegrees.pdb
+E:\Code\SoftUni\02SimpleCalculations\12RadiansToDegrees\obj\Debug\12RadiansToDegrees.exe
+E:\Code\SoftUni\02SimpleCalculations\12RadiansToDegrees\obj\Debug\12RadiansToDegrees.pdb

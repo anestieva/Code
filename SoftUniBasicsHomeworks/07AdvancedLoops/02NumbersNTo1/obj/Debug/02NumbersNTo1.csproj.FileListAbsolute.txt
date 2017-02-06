@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\02NumbersNTo1\bin\Debug\02NumbersNTo1.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\02NumbersNTo1\bin\Debug\02NumbersNTo1.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\02NumbersNTo1\bin\Debug\02NumbersNTo1.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\02NumbersNTo1\obj\Debug\02NumbersNTo1.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\02NumbersNTo1\obj\Debug\02NumbersNTo1.pdb

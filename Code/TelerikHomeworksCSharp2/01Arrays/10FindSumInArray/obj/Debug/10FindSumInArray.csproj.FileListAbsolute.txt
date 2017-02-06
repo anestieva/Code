@@ -1,0 +1,1 @@
+E:\Code\TelerikHomeworksC#2\01Arrays\10FindSumInArray\bin\Debug\10FindSumInArray.exe.config

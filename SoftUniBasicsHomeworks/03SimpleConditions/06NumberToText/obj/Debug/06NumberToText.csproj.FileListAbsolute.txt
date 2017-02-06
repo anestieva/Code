@@ -1,0 +1,5 @@
+E:\Code\SoftUni\03SimpleConditions\06NumberToText\bin\Debug\06NumberToText.exe.config
+E:\Code\SoftUni\03SimpleConditions\06NumberToText\bin\Debug\06NumberToText.exe
+E:\Code\SoftUni\03SimpleConditions\06NumberToText\bin\Debug\06NumberToText.pdb
+E:\Code\SoftUni\03SimpleConditions\06NumberToText\obj\Debug\06NumberToText.exe
+E:\Code\SoftUni\03SimpleConditions\06NumberToText\obj\Debug\06NumberToText.pdb

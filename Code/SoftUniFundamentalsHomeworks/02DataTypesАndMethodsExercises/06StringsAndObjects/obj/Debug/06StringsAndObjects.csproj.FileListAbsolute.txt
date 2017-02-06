@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\06StringsAndObjects\bin\Debug\06StringsAndObjects.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\06StringsAndObjects\bin\Debug\06StringsAndObjects.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\06StringsAndObjects\obj\Debug\06StringsAndObjects.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\06StringsAndObjects\obj\Debug\06StringsAndObjects.pdb

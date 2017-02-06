@@ -1,0 +1,5 @@
+E:\Code\SoftUniBasicsExam\505DrawFort\bin\Debug\505DrawFort.exe.config
+E:\Code\SoftUniBasicsExam\505DrawFort\bin\Debug\505DrawFort.exe
+E:\Code\SoftUniBasicsExam\505DrawFort\bin\Debug\505DrawFort.pdb
+E:\Code\SoftUniBasicsExam\505DrawFort\obj\Debug\505DrawFort.exe
+E:\Code\SoftUniBasicsExam\505DrawFort\obj\Debug\505DrawFort.pdb

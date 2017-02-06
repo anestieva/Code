@@ -1,0 +1,6 @@
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\301Laser\bin\Debug\301Laser.exe.config
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\301Laser\bin\Debug\301Laser.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\301Laser\bin\Debug\301Laser.pdb
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\301Laser\obj\Debug\301Laser.csprojResolveAssemblyReference.cache
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\301Laser\obj\Debug\301Laser.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\301Laser\obj\Debug\301Laser.pdb

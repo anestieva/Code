@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\02AppendLists\bin\Debug\02AppendLists.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\02AppendLists\bin\Debug\02AppendLists.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\02AppendLists\bin\Debug\02AppendLists.pdb
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\02AppendLists\obj\Debug\02AppendLists.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\02AppendLists\obj\Debug\02AppendLists.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\02AppendLists\obj\Debug\02AppendLists.pdb

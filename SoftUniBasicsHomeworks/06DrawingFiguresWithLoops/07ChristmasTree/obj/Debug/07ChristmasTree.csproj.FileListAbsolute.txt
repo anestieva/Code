@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\07ChristmasTree\bin\Debug\07ChristmasTree.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\07ChristmasTree\bin\Debug\07ChristmasTree.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\07ChristmasTree\bin\Debug\07ChristmasTree.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\07ChristmasTree\obj\Debug\07ChristmasTree.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\07ChristmasTree\obj\Debug\07ChristmasTree.pdb

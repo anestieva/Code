@@ -1,0 +1,6 @@
+E:\Code\SoftUni\04ComplexConditionalStatements\01PersonalTitles\bin\Debug\01PersonalTitles.exe.config
+E:\Code\SoftUni\04ComplexConditionalStatements\01PersonalTitles\bin\Debug\01PersonalTitles.exe
+E:\Code\SoftUni\04ComplexConditionalStatements\01PersonalTitles\bin\Debug\01PersonalTitles.pdb
+E:\Code\SoftUni\04ComplexConditionalStatements\01PersonalTitles\obj\Debug\01PersonalTitles.csprojResolveAssemblyReference.cache
+E:\Code\SoftUni\04ComplexConditionalStatements\01PersonalTitles\obj\Debug\01PersonalTitles.exe
+E:\Code\SoftUni\04ComplexConditionalStatements\01PersonalTitles\obj\Debug\01PersonalTitles.pdb

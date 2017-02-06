@@ -1,0 +1,6 @@
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\105CalculationProblem\bin\Debug\105CalculationProblem.exe.config
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\105CalculationProblem\bin\Debug\105CalculationProblem.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\105CalculationProblem\bin\Debug\105CalculationProblem.pdb
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\105CalculationProblem\obj\Debug\105CalculationProblem.csprojResolveAssemblyReference.cache
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\105CalculationProblem\obj\Debug\105CalculationProblem.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\105CalculationProblem\obj\Debug\105CalculationProblem.pdb

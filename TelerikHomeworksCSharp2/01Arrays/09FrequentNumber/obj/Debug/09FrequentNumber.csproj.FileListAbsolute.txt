@@ -1,0 +1,6 @@
+E:\Code\TelerikHomeworksC#2\01Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe.config
+E:\Code\TelerikHomeworksC#2\01Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.exe
+E:\Code\TelerikHomeworksC#2\01Arrays\09FrequentNumber\bin\Debug\09FrequentNumber.pdb
+E:\Code\TelerikHomeworksC#2\01Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.csprojResolveAssemblyReference.cache
+E:\Code\TelerikHomeworksC#2\01Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.exe
+E:\Code\TelerikHomeworksC#2\01Arrays\09FrequentNumber\obj\Debug\09FrequentNumber.pdb

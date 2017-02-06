@@ -1,0 +1,5 @@
+E:\Code\SoftUniBasicsExam\204PoolPipes\bin\Debug\204PoolPipes.exe.config
+E:\Code\SoftUniBasicsExam\204PoolPipes\bin\Debug\204PoolPipes.exe
+E:\Code\SoftUniBasicsExam\204PoolPipes\bin\Debug\204PoolPipes.pdb
+E:\Code\SoftUniBasicsExam\204PoolPipes\obj\Debug\204PoolPipes.exe
+E:\Code\SoftUniBasicsExam\204PoolPipes\obj\Debug\204PoolPipes.pdb

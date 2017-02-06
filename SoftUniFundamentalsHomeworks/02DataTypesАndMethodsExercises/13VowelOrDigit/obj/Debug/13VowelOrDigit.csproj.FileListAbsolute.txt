@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\13VowelOrDigit\bin\Debug\13VowelOrDigit.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\13VowelOrDigit\bin\Debug\13VowelOrDigit.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\13VowelOrDigit\bin\Debug\13VowelOrDigit.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\13VowelOrDigit\obj\Debug\13VowelOrDigit.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\13VowelOrDigit\obj\Debug\13VowelOrDigit.pdb

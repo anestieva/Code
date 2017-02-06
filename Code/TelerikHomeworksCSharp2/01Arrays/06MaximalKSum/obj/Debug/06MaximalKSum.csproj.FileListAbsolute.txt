@@ -1,0 +1,5 @@
+E:\Code\TelerikHomeworksC#2\01Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe.config
+E:\Code\TelerikHomeworksC#2\01Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.exe
+E:\Code\TelerikHomeworksC#2\01Arrays\06MaximalKSum\bin\Debug\06MaximalKSum.pdb
+E:\Code\TelerikHomeworksC#2\01Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.exe
+E:\Code\TelerikHomeworksC#2\01Arrays\06MaximalKSum\obj\Debug\06MaximalKSum.pdb

@@ -1,0 +1,6 @@
+E:\Code\SoftUniBasicsExam\403Hospital\bin\Debug\403Hospital.exe.config
+E:\Code\SoftUniBasicsExam\403Hospital\bin\Debug\403Hospital.exe
+E:\Code\SoftUniBasicsExam\403Hospital\bin\Debug\403Hospital.pdb
+E:\Code\SoftUniBasicsExam\403Hospital\obj\Debug\403Hospital.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\403Hospital\obj\Debug\403Hospital.exe
+E:\Code\SoftUniBasicsExam\403Hospital\obj\Debug\403Hospital.pdb

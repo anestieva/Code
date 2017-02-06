@@ -1,0 +1,2 @@
+E:\Code\SoftUni\FirstStepsInCoding\01HelloCSharp\bin\Debug\01HelloCSharp.exe.config
+E:\Code\SoftUni\01FirstStepsInCoding\01HelloCSharp\bin\Debug\01HelloCSharp.exe.config

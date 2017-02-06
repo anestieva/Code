@@ -1,0 +1,9 @@
+E:\Code\SoftUniBasicsExam\402SmartLilly\bin\Debug\402SmartLilly.exe.config
+E:\Code\SoftUniBasicsExam\402SmartLilly\bin\Debug\402SmartLilly.exe
+E:\Code\SoftUniBasicsExam\402SmartLilly\bin\Debug\402SmartLilly.pdb
+E:\Code\SoftUniBasicsExam\402SmartLilly\obj\Debug\402SmartLilly.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\402SmartLilly\obj\Debug\402SmartLilly.exe
+E:\Code\SoftUniBasicsExam\402SmartLilly\obj\Debug\402SmartLilly.pdb
+E:\Code\SoftUniProgrammingBasicsExam\402SmartLilly\bin\Debug\402SmartLilly.exe.config
+E:\Code\SoftUniProgrammingBasicsExam\402SmartLilly\obj\Debug\402SmartLilly.exe
+E:\Code\SoftUniProgrammingBasicsExam\402SmartLilly\obj\Debug\402SmartLilly.pdb

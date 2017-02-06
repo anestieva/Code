@@ -1,0 +1,1 @@
+E:\Code\TelerikHomeworksC#2\03Methods\11AddingPolynomials\bin\Debug\11AddingPolynomials.exe.config

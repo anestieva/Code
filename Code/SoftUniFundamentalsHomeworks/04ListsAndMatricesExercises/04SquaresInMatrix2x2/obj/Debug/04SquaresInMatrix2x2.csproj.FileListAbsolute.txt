@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\04SquaresInMatrix2x2\bin\Debug\04SquaresInMatrix2x2.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\04SquaresInMatrix2x2\obj\Debug\04SquaresInMatrix2x2.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\04SquaresInMatrix2x2\bin\Debug\04SquaresInMatrix2x2.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\04SquaresInMatrix2x2\bin\Debug\04SquaresInMatrix2x2.pdb
+E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\04SquaresInMatrix2x2\obj\Debug\04SquaresInMatrix2x2.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsAndMatricesExercises\04SquaresInMatrix2x2\obj\Debug\04SquaresInMatrix2x2.pdb

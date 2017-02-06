@@ -1,0 +1,5 @@
+E:\Code\TelerikHomeworksC#2\01Arrays\11IndexOfLetters\bin\Debug\11IndexOfLetters.exe.config
+E:\Code\TelerikHomeworksC#2\01Arrays\11IndexOfLetters\bin\Debug\11IndexOfLetters.exe
+E:\Code\TelerikHomeworksC#2\01Arrays\11IndexOfLetters\bin\Debug\11IndexOfLetters.pdb
+E:\Code\TelerikHomeworksC#2\01Arrays\11IndexOfLetters\obj\Debug\11IndexOfLetters.exe
+E:\Code\TelerikHomeworksC#2\01Arrays\11IndexOfLetters\obj\Debug\11IndexOfLetters.pdb

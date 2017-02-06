@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\16PrintPartOfASCIITable\bin\Debug\16PrintPartOfASCIITable.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\16PrintPartOfASCIITable\bin\Debug\16PrintPartOfASCIITable.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\16PrintPartOfASCIITable\bin\Debug\16PrintPartOfASCIITable.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\16PrintPartOfASCIITable\obj\Debug\16PrintPartOfASCIITable.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\16PrintPartOfASCIITable\obj\Debug\16PrintPartOfASCIITable.pdb

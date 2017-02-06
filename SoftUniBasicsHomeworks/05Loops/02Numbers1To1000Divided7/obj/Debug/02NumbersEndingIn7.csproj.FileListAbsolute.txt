@@ -1,0 +1,3 @@
+E:\Code\SoftUni\05Loops\02Numbers1To1000Divided7\bin\Debug\02Numbers1To1000Divided7.exe.config
+E:\Code\SoftUni\05Loops\02Numbers1To1000Divided7\obj\Debug\02Numbers1To1000Divided7.exe
+E:\Code\SoftUni\05Loops\02Numbers1To1000Divided7\obj\Debug\02Numbers1To1000Divided7.pdb

@@ -1,0 +1,6 @@
+E:\Code\SoftUni\04ComplexConditionalStatements\12Cinema\bin\Debug\12Cinema.exe.config
+E:\Code\SoftUni\04ComplexConditionalStatements\12Cinema\bin\Debug\12Cinema.exe
+E:\Code\SoftUni\04ComplexConditionalStatements\12Cinema\bin\Debug\12Cinema.pdb
+E:\Code\SoftUni\04ComplexConditionalStatements\12Cinema\obj\Debug\12Cinema.csprojResolveAssemblyReference.cache
+E:\Code\SoftUni\04ComplexConditionalStatements\12Cinema\obj\Debug\12Cinema.exe
+E:\Code\SoftUni\04ComplexConditionalStatements\12Cinema\obj\Debug\12Cinema.pdb

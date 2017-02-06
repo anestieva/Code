@@ -1,0 +1,6 @@
+E:\Code\SoftUniBasicsExam\304Trip\bin\Debug\304Trip.exe.config
+E:\Code\SoftUniBasicsExam\304Trip\bin\Debug\304Trip.exe
+E:\Code\SoftUniBasicsExam\304Trip\bin\Debug\304Trip.pdb
+E:\Code\SoftUniBasicsExam\304Trip\obj\Debug\304Trip.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\304Trip\obj\Debug\304Trip.exe
+E:\Code\SoftUniBasicsExam\304Trip\obj\Debug\304Trip.pdb

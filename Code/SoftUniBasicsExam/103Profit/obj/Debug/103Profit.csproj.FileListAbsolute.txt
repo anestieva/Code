@@ -1,0 +1,6 @@
+E:\Code\SoftUniBasicsExam\103Profit\bin\Debug\103Profit.exe.config
+E:\Code\SoftUniBasicsExam\103Profit\bin\Debug\103Profit.exe
+E:\Code\SoftUniBasicsExam\103Profit\bin\Debug\103Profit.pdb
+E:\Code\SoftUniBasicsExam\103Profit\obj\Debug\103Profit.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\103Profit\obj\Debug\103Profit.exe
+E:\Code\SoftUniBasicsExam\103Profit\obj\Debug\103Profit.pdb

@@ -1,0 +1,9 @@
+E:\Code\SoftUniBasicsExam\102RepairOfTile\bin\Debug\102RepairOfTile.exe.config
+E:\Code\SoftUniBasicsExam\102RepairOfTile\bin\Debug\102RepairOfTile.exe
+E:\Code\SoftUniBasicsExam\102RepairOfTile\bin\Debug\102RepairOfTile.pdb
+E:\Code\SoftUniBasicsExam\102RepairOfTile\obj\Debug\102RepairOfTile.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\102RepairOfTile\obj\Debug\102RepairOfTile.exe
+E:\Code\SoftUniBasicsExam\102RepairOfTile\obj\Debug\102RepairOfTile.pdb
+E:\Code\SoftUniProgrammingBasicsExam\102RepairOfTile\bin\Debug\102RepairOfTile.exe.config
+E:\Code\SoftUniProgrammingBasicsExam\102RepairOfTile\obj\Debug\102RepairOfTile.exe
+E:\Code\SoftUniProgrammingBasicsExam\102RepairOfTile\obj\Debug\102RepairOfTile.pdb

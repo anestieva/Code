@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\04EvenPowersOf2\bin\Debug\04EvenPowersOf2.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\04EvenPowersOf2\bin\Debug\04EvenPowersOf2.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\04EvenPowersOf2\bin\Debug\04EvenPowersOf2.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\04EvenPowersOf2\obj\Debug\04EvenPowersOf2.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\04EvenPowersOf2\obj\Debug\04EvenPowersOf2.pdb

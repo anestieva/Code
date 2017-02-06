@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\11ConvertSpeedUnits\bin\Debug\11ConvertSpeedUnits.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\11ConvertSpeedUnits\bin\Debug\11ConvertSpeedUnits.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\11ConvertSpeedUnits\bin\Debug\11ConvertSpeedUnits.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\11ConvertSpeedUnits\obj\Debug\11ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\11ConvertSpeedUnits\obj\Debug\11ConvertSpeedUnits.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\11ConvertSpeedUnits\obj\Debug\11ConvertSpeedUnits.pdb

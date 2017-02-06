@@ -1,0 +1,6 @@
+E:\Code\TelerikHomeworksC#2\02MultidimensionalArrays\01FillТheМatrix\bin\Debug\01FillТheМatrix.exe.config
+E:\Code\TelerikHomeworksC#2\02MultidimensionalArrays\01FillТheМatrix\bin\Debug\01FillТheМatrix.exe
+E:\Code\TelerikHomeworksC#2\02MultidimensionalArrays\01FillТheМatrix\bin\Debug\01FillТheМatrix.pdb
+E:\Code\TelerikHomeworksC#2\02MultidimensionalArrays\01FillТheМatrix\obj\Debug\01FillТheМatrix.csprojResolveAssemblyReference.cache
+E:\Code\TelerikHomeworksC#2\02MultidimensionalArrays\01FillТheМatrix\obj\Debug\01FillТheМatrix.exe
+E:\Code\TelerikHomeworksC#2\02MultidimensionalArrays\01FillТheМatrix\obj\Debug\01FillТheМatrix.pdb

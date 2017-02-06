@@ -1,0 +1,6 @@
+E:\Code\SoftUniBasicsExam\405Histogram\bin\Debug\405Histogram.exe.config
+E:\Code\SoftUniBasicsExam\405Histogram\bin\Debug\405Histogram.exe
+E:\Code\SoftUniBasicsExam\405Histogram\bin\Debug\405Histogram.pdb
+E:\Code\SoftUniBasicsExam\405Histogram\obj\Debug\405Histogram.exe
+E:\Code\SoftUniBasicsExam\405Histogram\obj\Debug\405Histogram.pdb
+E:\Code\SoftUniBasicsExam\405Histogram\obj\Debug\405Histogram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Code\SoftUniBasicsExam\504Butterfly\bin\Debug\504Butterfly.exe.config
+E:\Code\SoftUniBasicsExam\504Butterfly\bin\Debug\504Butterfly.exe
+E:\Code\SoftUniBasicsExam\504Butterfly\bin\Debug\504Butterfly.pdb
+E:\Code\SoftUniBasicsExam\504Butterfly\obj\Debug\504Butterfly.exe
+E:\Code\SoftUniBasicsExam\504Butterfly\obj\Debug\504Butterfly.pdb

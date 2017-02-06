@@ -1,0 +1,6 @@
+E:\Code\SoftUniBasicsExam\104VegetableMarket\bin\Debug\104VegetableMarket.exe.config
+E:\Code\SoftUniBasicsExam\104VegetableMarket\bin\Debug\104VegetableMarket.exe
+E:\Code\SoftUniBasicsExam\104VegetableMarket\bin\Debug\104VegetableMarket.pdb
+E:\Code\SoftUniBasicsExam\104VegetableMarket\obj\Debug\104VegetableMarket.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniBasicsExam\104VegetableMarket\obj\Debug\104VegetableMarket.exe
+E:\Code\SoftUniBasicsExam\104VegetableMarket\obj\Debug\104VegetableMarket.pdb

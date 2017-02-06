@@ -1,0 +1,6 @@
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\102MultiverseCommunication\bin\Debug\102MultiverseCommunication.exe.config
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\102MultiverseCommunication\bin\Debug\102MultiverseCommunication.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\102MultiverseCommunication\bin\Debug\102MultiverseCommunication.pdb
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\102MultiverseCommunication\obj\Debug\102MultiverseCommunication.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\102MultiverseCommunication\obj\Debug\102MultiverseCommunication.pdb
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\102MultiverseCommunication\obj\Debug\102MultiverseCommunication.csprojResolveAssemblyReference.cache

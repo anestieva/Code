@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\08Sunglasses\bin\Debug\08Sunglasses.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\08Sunglasses\bin\Debug\08Sunglasses.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\08Sunglasses\bin\Debug\08Sunglasses.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\08Sunglasses\obj\Debug\08Sunglasses.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\08Sunglasses\obj\Debug\08Sunglasses.pdb

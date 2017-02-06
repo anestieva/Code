@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\09SumDigits\bin\Debug\09SumDigits.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\09SumDigits\bin\Debug\09SumDigits.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\09SumDigits\bin\Debug\09SumDigits.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\09SumDigits\obj\Debug\09SumDigits.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\09SumDigits\obj\Debug\09SumDigits.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\05SquareFrame\bin\Debug\05SquareFrame.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\05SquareFrame\bin\Debug\05SquareFrame.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\05SquareFrame\bin\Debug\05SquareFrame.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\05SquareFrame\obj\Debug\05SquareFrame.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\06DrawingFiguresWithLoops\05SquareFrame\obj\Debug\05SquareFrame.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\08Factorial\bin\Debug\08Factorial.exe.config
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\08Factorial\bin\Debug\08Factorial.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\08Factorial\bin\Debug\08Factorial.pdb
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\08Factorial\obj\Debug\08Factorial.exe
+E:\Code\SoftUniProgrammingBasicsHomeworks\07AdvancedLoops\08Factorial\obj\Debug\08Factorial.pdb

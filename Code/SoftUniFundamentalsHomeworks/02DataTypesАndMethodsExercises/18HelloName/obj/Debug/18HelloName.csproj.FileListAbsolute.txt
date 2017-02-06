@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\18HelloName\bin\Debug\18HelloName.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\18HelloName\bin\Debug\18HelloName.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\18HelloName\bin\Debug\18HelloName.pdb
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\18HelloName\obj\Debug\18HelloName.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\18HelloName\obj\Debug\18HelloName.exe
+E:\Code\SoftUniFundamentalsHomeworks\02DataTypesАndMethodsExercises\18HelloName\obj\Debug\18HelloName.pdb

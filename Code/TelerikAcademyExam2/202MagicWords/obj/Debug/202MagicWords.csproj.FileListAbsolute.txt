@@ -1,0 +1,6 @@
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\202MagicWords\bin\Debug\202MagicWords.exe.config
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\202MagicWords\bin\Debug\202MagicWords.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\202MagicWords\bin\Debug\202MagicWords.pdb
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\202MagicWords\obj\Debug\202MagicWords.csprojResolveAssemblyReference.cache
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\202MagicWords\obj\Debug\202MagicWords.exe
+E:\Code\TelerikAcademyExam2\TelerikAcademyExam2\202MagicWords\obj\Debug\202MagicWords.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUni\05Loops\07LeftAndRightSum\bin\Debug\07LeftAndRightSum.exe.config
+E:\Code\SoftUni\05Loops\07LeftAndRightSum\bin\Debug\07LeftAndRightSum.exe
+E:\Code\SoftUni\05Loops\07LeftAndRightSum\bin\Debug\07LeftAndRightSum.pdb
+E:\Code\SoftUni\05Loops\07LeftAndRightSum\obj\Debug\07LeftAndRightSum.exe
+E:\Code\SoftUni\05Loops\07LeftAndRightSum\obj\Debug\07LeftAndRightSum.pdb

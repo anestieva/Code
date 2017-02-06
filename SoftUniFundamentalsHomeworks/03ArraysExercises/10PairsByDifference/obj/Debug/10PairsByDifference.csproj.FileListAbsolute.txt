@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\10PairsByDifference\bin\Debug\10PairsByDifference.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\10PairsByDifference\bin\Debug\10PairsByDifference.exe
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\10PairsByDifference\bin\Debug\10PairsByDifference.pdb
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\10PairsByDifference\obj\Debug\10PairsByDifference.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\10PairsByDifference\obj\Debug\10PairsByDifference.exe
+E:\Code\SoftUniFundamentalsHomeworks\03ArraysExercises\10PairsByDifference\obj\Debug\10PairsByDifference.pdb

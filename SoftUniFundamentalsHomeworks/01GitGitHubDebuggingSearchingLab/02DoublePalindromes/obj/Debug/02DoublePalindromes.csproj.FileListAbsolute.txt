@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsHomeworks\01GitGitHubDebuggingSearchingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\01GitGitHubDebuggingSearchingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.exe
+E:\Code\SoftUniFundamentalsHomeworks\01GitGitHubDebuggingSearchingLab\02DoublePalindromes\bin\Debug\02DoublePalindromes.pdb
+E:\Code\SoftUniFundamentalsHomeworks\01GitGitHubDebuggingSearchingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.exe
+E:\Code\SoftUniFundamentalsHomeworks\01GitGitHubDebuggingSearchingLab\02DoublePalindromes\obj\Debug\02DoublePalindromes.pdb

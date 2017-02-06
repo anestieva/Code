@@ -1,0 +1,5 @@
+E:\Code\SoftUni\03SimpleConditions\05GreaterNumber\bin\Debug\05GreaterNumber.exe.config
+E:\Code\SoftUni\03SimpleConditions\05GreaterNumber\bin\Debug\05GreaterNumber.exe
+E:\Code\SoftUni\03SimpleConditions\05GreaterNumber\bin\Debug\05GreaterNumber.pdb
+E:\Code\SoftUni\03SimpleConditions\05GreaterNumber\obj\Debug\05GreaterNumber.exe
+E:\Code\SoftUni\03SimpleConditions\05GreaterNumber\obj\Debug\05GreaterNumber.pdb

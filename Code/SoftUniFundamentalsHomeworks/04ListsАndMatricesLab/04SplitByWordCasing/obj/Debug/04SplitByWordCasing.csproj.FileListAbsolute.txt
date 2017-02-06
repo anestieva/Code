@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\04SplitByWordCasing\bin\Debug\04SplitByWordCasing.exe.config
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\04SplitByWordCasing\bin\Debug\04SplitByWordCasing.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\04SplitByWordCasing\bin\Debug\04SplitByWordCasing.pdb
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\04SplitByWordCasing\obj\Debug\04SplitByWordCasing.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\04SplitByWordCasing\obj\Debug\04SplitByWordCasing.exe
+E:\Code\SoftUniFundamentalsHomeworks\04ListsАndMatricesLab\04SplitByWordCasing\obj\Debug\04SplitByWordCasing.pdb
