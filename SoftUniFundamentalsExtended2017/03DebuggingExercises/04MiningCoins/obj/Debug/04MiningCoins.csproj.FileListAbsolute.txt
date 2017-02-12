@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\04MiningCoins\bin\Debug\04MiningCoins.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\04MiningCoins\bin\Debug\04MiningCoins.exe
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\04MiningCoins\bin\Debug\04MiningCoins.pdb
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\04MiningCoins\obj\Debug\04MiningCoins.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\04MiningCoins\obj\Debug\04MiningCoins.exe
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\04MiningCoins\obj\Debug\04MiningCoins.pdb

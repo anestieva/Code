@@ -1,0 +1,6 @@
+c:\users\anest\documents\visual studio 2017\Projects\04SimpleArraysExercises\01LargestElementInArray\bin\Debug\01LargestElementInArray.exe.config
+c:\users\anest\documents\visual studio 2017\Projects\04SimpleArraysExercises\01LargestElementInArray\bin\Debug\01LargestElementInArray.exe
+c:\users\anest\documents\visual studio 2017\Projects\04SimpleArraysExercises\01LargestElementInArray\bin\Debug\01LargestElementInArray.pdb
+c:\users\anest\documents\visual studio 2017\Projects\04SimpleArraysExercises\01LargestElementInArray\obj\Debug\01LargestElementInArray.csprojResolveAssemblyReference.cache
+c:\users\anest\documents\visual studio 2017\Projects\04SimpleArraysExercises\01LargestElementInArray\obj\Debug\01LargestElementInArray.exe
+c:\users\anest\documents\visual studio 2017\Projects\04SimpleArraysExercises\01LargestElementInArray\obj\Debug\01LargestElementInArray.pdb

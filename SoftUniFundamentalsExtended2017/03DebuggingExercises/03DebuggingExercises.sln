@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26020.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01TrickyStrings", "01TrickyStrings\01TrickyStrings.csproj", "{C145A9D0-768E-449A-B1B0-1C2CA21D6790}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TriangleFormations", "02TriangleFormations\02TriangleFormations.csproj", "{9DDC11A6-BE64-4CAD-B499-242983829351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04MiningCoins", "04MiningCoins\04MiningCoins.csproj", "{B43E8B82-6F3B-472F-B372-04BF69FC3198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Tetris", "03Tetris\03Tetris.csproj", "{E08EBFB7-252C-4D99-81A2-1F93A687EC3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C145A9D0-768E-449A-B1B0-1C2CA21D6790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C145A9D0-768E-449A-B1B0-1C2CA21D6790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C145A9D0-768E-449A-B1B0-1C2CA21D6790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C145A9D0-768E-449A-B1B0-1C2CA21D6790}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDC11A6-BE64-4CAD-B499-242983829351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDC11A6-BE64-4CAD-B499-242983829351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDC11A6-BE64-4CAD-B499-242983829351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDC11A6-BE64-4CAD-B499-242983829351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43E8B82-6F3B-472F-B372-04BF69FC3198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43E8B82-6F3B-472F-B372-04BF69FC3198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43E8B82-6F3B-472F-B372-04BF69FC3198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43E8B82-6F3B-472F-B372-04BF69FC3198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08EBFB7-252C-4D99-81A2-1F93A687EC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08EBFB7-252C-4D99-81A2-1F93A687EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08EBFB7-252C-4D99-81A2-1F93A687EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08EBFB7-252C-4D99-81A2-1F93A687EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

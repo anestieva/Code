@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\03Tetris\bin\Debug\03Tetris.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\03Tetris\bin\Debug\03Tetris.exe
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\03Tetris\bin\Debug\03Tetris.pdb
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\03Tetris\obj\Debug\03Tetris.exe
+E:\Code\SoftUniFundamentalsExtended2017\03DebuggingExercises\03Tetris\obj\Debug\03Tetris.pdb
