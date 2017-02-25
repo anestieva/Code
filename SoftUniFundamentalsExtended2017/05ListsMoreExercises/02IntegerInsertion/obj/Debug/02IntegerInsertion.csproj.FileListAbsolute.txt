@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\02IntegerInsertion\bin\Debug\02IntegerInsertion.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\02IntegerInsertion\bin\Debug\02IntegerInsertion.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\02IntegerInsertion\bin\Debug\02IntegerInsertion.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\02IntegerInsertion\obj\Debug\02IntegerInsertion.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\02IntegerInsertion\obj\Debug\02IntegerInsertion.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\03CamelBack\bin\Debug\03CamelBack.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\03CamelBack\bin\Debug\03CamelBack.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\03CamelBack\bin\Debug\03CamelBack.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\03CamelBack\obj\Debug\03CamelBack.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\03CamelBack\obj\Debug\03CamelBack.pdb

@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\01DistinctList\bin\Debug\01DistinctList.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\01DistinctList\bin\Debug\01DistinctList.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\01DistinctList\bin\Debug\01DistinctList.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\01DistinctList\obj\Debug\01DistinctList.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\01DistinctList\obj\Debug\01DistinctList.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsMoreExercises\01DistinctList\obj\Debug\01DistinctList.pdb
