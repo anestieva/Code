@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\05CharRotation\bin\Debug\05CharRotation.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\05CharRotation\bin\Debug\05CharRotation.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\05CharRotation\bin\Debug\05CharRotation.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\05CharRotation\obj\Debug\05CharRotation.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\05CharRotation\obj\Debug\05CharRotation.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\05CharRotation\obj\Debug\05CharRotation.pdb

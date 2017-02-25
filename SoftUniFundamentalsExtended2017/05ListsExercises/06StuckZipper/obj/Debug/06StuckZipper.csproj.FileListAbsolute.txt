@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\06StuckZipper\bin\Debug\06StuckZipper.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\06StuckZipper\bin\Debug\06StuckZipper.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\06StuckZipper\bin\Debug\06StuckZipper.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\06StuckZipper\obj\Debug\06StuckZipper.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\06StuckZipper\obj\Debug\06StuckZipper.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\06StuckZipper\obj\Debug\06StuckZipper.csprojResolveAssemblyReference.cache

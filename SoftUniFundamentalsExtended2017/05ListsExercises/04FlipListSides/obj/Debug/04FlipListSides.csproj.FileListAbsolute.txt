@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\04FlipListSides\bin\Debug\04FlipListSides.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\04FlipListSides\bin\Debug\04FlipListSides.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\04FlipListSides\bin\Debug\04FlipListSides.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\04FlipListSides\obj\Debug\04FlipListSides.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\04FlipListSides\obj\Debug\04FlipListSides.pdb

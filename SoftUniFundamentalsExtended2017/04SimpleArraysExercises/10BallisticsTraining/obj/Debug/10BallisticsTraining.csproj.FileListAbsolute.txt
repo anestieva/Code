@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\10BallisticsTraining\bin\Debug\10BallisticsTraining.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\10BallisticsTraining\bin\Debug\10BallisticsTraining.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\10BallisticsTraining\bin\Debug\10BallisticsTraining.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\10BallisticsTraining\obj\Debug\10BallisticsTraining.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\10BallisticsTraining\obj\Debug\10BallisticsTraining.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\10BallisticsTraining\obj\Debug\10BallisticsTraining.pdb

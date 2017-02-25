@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\05TearListInHalf\bin\Debug\05TearListInHalf.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\05TearListInHalf\bin\Debug\05TearListInHalf.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\05TearListInHalf\bin\Debug\05TearListInHalf.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\05TearListInHalf\obj\Debug\05TearListInHalf.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\05TearListInHalf\obj\Debug\05TearListInHalf.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\05TearListInHalf\obj\Debug\05TearListInHalf.pdb

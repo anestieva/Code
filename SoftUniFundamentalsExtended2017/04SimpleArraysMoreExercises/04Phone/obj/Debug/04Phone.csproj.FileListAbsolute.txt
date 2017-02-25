@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\04Phone\bin\Debug\04Phone.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\04Phone\bin\Debug\04Phone.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\04Phone\bin\Debug\04Phone.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\04Phone\obj\Debug\04Phone.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\04Phone\obj\Debug\04Phone.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\04Phone\obj\Debug\04Phone.pdb

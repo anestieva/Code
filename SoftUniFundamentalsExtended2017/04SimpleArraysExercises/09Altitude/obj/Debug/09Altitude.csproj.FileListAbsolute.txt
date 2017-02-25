@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\09Altitude\bin\Debug\09Altitude.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\09Altitude\bin\Debug\09Altitude.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\09Altitude\bin\Debug\09Altitude.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\09Altitude\obj\Debug\09Altitude.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\09Altitude\obj\Debug\09Altitude.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\09Altitude\obj\Debug\09Altitude.pdb

@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\03Phonebook\bin\Debug\03Phonebook.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\03Phonebook\bin\Debug\03Phonebook.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\03Phonebook\bin\Debug\03Phonebook.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\03Phonebook\obj\Debug\03Phonebook.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\03Phonebook\obj\Debug\03Phonebook.pdb

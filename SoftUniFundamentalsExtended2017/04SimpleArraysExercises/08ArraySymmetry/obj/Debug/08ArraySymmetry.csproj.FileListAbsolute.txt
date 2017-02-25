@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\08ArraySymmetry\bin\Debug\08ArraySymmetry.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\08ArraySymmetry\bin\Debug\08ArraySymmetry.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\08ArraySymmetry\bin\Debug\08ArraySymmetry.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\08ArraySymmetry\obj\Debug\08ArraySymmetry.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\08ArraySymmetry\obj\Debug\08ArraySymmetry.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysExercises\08ArraySymmetry\obj\Debug\08ArraySymmetry.pdb

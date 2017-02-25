@@ -1,0 +1,5 @@
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\03EqualSumAfterExtraction\bin\Debug\03EqualSumAfterExtraction.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\03EqualSumAfterExtraction\bin\Debug\03EqualSumAfterExtraction.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\03EqualSumAfterExtraction\bin\Debug\03EqualSumAfterExtraction.pdb
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\03EqualSumAfterExtraction\obj\Debug\03EqualSumAfterExtraction.exe
+E:\Code\SoftUniFundamentalsExtended2017\05ListsExercises\03EqualSumAfterExtraction\obj\Debug\03EqualSumAfterExtraction.pdb

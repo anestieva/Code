@@ -1,0 +1,6 @@
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\07ResizableArray\bin\Debug\07ResizableArray.exe.config
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\07ResizableArray\bin\Debug\07ResizableArray.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\07ResizableArray\bin\Debug\07ResizableArray.pdb
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\07ResizableArray\obj\Debug\07ResizableArray.csprojResolveAssemblyReference.cache
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\07ResizableArray\obj\Debug\07ResizableArray.exe
+E:\Code\SoftUniFundamentalsExtended2017\04SimpleArraysMoreExercises\07ResizableArray\obj\Debug\07ResizableArray.pdb
