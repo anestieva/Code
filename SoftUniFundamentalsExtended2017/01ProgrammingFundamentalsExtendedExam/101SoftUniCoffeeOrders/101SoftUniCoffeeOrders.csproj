@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{860A8D2D-A878-4B49-A92A-795DBD2A541F}</ProjectGuid>
+    <ProjectGuid>{9467625A-E046-4E47-86BD-07DC45311E36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01RegisteredUsers</RootNamespace>
-    <AssemblyName>01RegisteredUsers</AssemblyName>
+    <RootNamespace>_101SoftUniCoffeeOrders</RootNamespace>
+    <AssemblyName>101SoftUniCoffeeOrders</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RegisteredUsers.cs" />
+    <Compile Include="SoftUniCoffeeOrders.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

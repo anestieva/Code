@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{860A8D2D-A878-4B49-A92A-795DBD2A541F}</ProjectGuid>
+    <ProjectGuid>{27703C60-3E61-4F48-A212-EB213519A1D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01RegisteredUsers</RootNamespace>
-    <AssemblyName>01RegisteredUsers</AssemblyName>
+    <RootNamespace>_02JSONStringify</RootNamespace>
+    <AssemblyName>02JSONStringify</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RegisteredUsers.cs" />
+    <Compile Include="JSONStringify.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

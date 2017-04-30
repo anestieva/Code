@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{860A8D2D-A878-4B49-A92A-795DBD2A541F}</ProjectGuid>
+    <ProjectGuid>{751F92F4-CBBF-4B4D-9F07-DD19C832740B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01RegisteredUsers</RootNamespace>
-    <AssemblyName>01RegisteredUsers</AssemblyName>
+    <RootNamespace>_301File</RootNamespace>
+    <AssemblyName>301File</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RegisteredUsers.cs" />
+    <Compile Include="File.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{860A8D2D-A878-4B49-A92A-795DBD2A541F}</ProjectGuid>
+    <ProjectGuid>{38896F0D-3E32-403B-A0C4-D8A964B3D0A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01RegisteredUsers</RootNamespace>
-    <AssemblyName>01RegisteredUsers</AssemblyName>
+    <RootNamespace>_02DefaultValues</RootNamespace>
+    <AssemblyName>02DefaultValues</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RegisteredUsers.cs" />
+    <Compile Include="DefaultValues.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{860A8D2D-A878-4B49-A92A-795DBD2A541F}</ProjectGuid>
+    <ProjectGuid>{898A62B5-AF86-4018-9FE1-07A38D54796C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01RegisteredUsers</RootNamespace>
-    <AssemblyName>01RegisteredUsers</AssemblyName>
+    <RootNamespace>_03Animals</RootNamespace>
+    <AssemblyName>03Animals</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RegisteredUsers.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
